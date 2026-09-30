@@ -1,0 +1,4808 @@
+[
+  {
+    "currency": "ETH",
+    "date": "2023-08-29T07:10:52.000Z",
+    "price": 1645.9337373737374,
+    "source": "snapshot",
+    "name": "Ethereum",
+    "icon": "/tokens/ETH.svg",
+    "balance": "2.50000000"
+  },
+  {
+    "currency": "USDC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.9998782611186441,
+    "source": "snapshot",
+    "name": "USD Coin",
+    "icon": "/tokens/USDC.svg",
+    "balance": "5000.00000000"
+  },
+  {
+    "currency": "BTC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 26000,
+    "source": "sample",
+    "name": "Bitcoin",
+    "icon": "/tokens/BTC.svg",
+    "balance": "0.05000000"
+  },
+  {
+    "currency": "SOL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.298,
+    "source": "sample",
+    "name": "Solana",
+    "icon": "/tokens/SOL.svg",
+    "balance": "30.37740893"
+  },
+  {
+    "currency": "USDT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.2,
+    "source": "sample",
+    "name": "Tether",
+    "icon": "/tokens/USDT.svg",
+    "balance": "38.94080997"
+  },
+  {
+    "currency": "ATOM",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 7.186657333333334,
+    "source": "snapshot",
+    "name": "Cosmos",
+    "icon": "/tokens/ATOM.svg",
+    "balance": "347.86687107"
+  },
+  {
+    "currency": "SWTH",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.004039850455012084,
+    "source": "snapshot",
+    "name": "Switcheo",
+    "icon": "/tokens/SWTH.svg",
+    "balance": "618834.78802993"
+  },
+  {
+    "currency": "1INCH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 104.389,
+    "source": "sample",
+    "name": "1INCH",
+    "icon": "/tokens/1INCH.svg",
+    "balance": "23.94888350"
+  },
+  {
+    "currency": "AAVE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 51.625,
+    "source": "sample",
+    "name": "AAVE",
+    "icon": "/tokens/AAVE.svg",
+    "balance": "48.42615012"
+  },
+  {
+    "currency": "ACT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.636,
+    "source": "sample",
+    "name": "ACT",
+    "icon": "/tokens/ACT.svg",
+    "balance": "38.67813602"
+  },
+  {
+    "currency": "ADA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 0.26,
+    "source": "sample",
+    "name": "Cardano",
+    "icon": "/tokens/ADA.svg",
+    "balance": "9615.38461538"
+  },
+  {
+    "currency": "AEVO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 55.479,
+    "source": "sample",
+    "name": "AEVO",
+    "icon": "/tokens/AEVO.svg",
+    "balance": "45.06209557"
+  },
+  {
+    "currency": "AGI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.749,
+    "source": "sample",
+    "name": "AGI",
+    "icon": "/tokens/AGI.svg",
+    "balance": "38.61063491"
+  },
+  {
+    "currency": "AI16Z",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.471,
+    "source": "sample",
+    "name": "AI16Z",
+    "icon": "/tokens/AI16Z.svg",
+    "balance": "1011.73613921"
+  },
+  {
+    "currency": "AIXBT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 40.316,
+    "source": "sample",
+    "name": "AIXBT",
+    "icon": "/tokens/AIXBT.svg",
+    "balance": "62.01012005"
+  },
+  {
+    "currency": "AKRO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 61.121,
+    "source": "sample",
+    "name": "AKRO",
+    "icon": "/tokens/AKRO.svg",
+    "balance": "40.90247215"
+  },
+  {
+    "currency": "AKT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.884,
+    "source": "sample",
+    "name": "AKT",
+    "icon": "/tokens/AKT.svg",
+    "balance": "38.53030023"
+  },
+  {
+    "currency": "ALGO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 61.741,
+    "source": "sample",
+    "name": "ALGO",
+    "icon": "/tokens/ALGO.svg",
+    "balance": "40.49173159"
+  },
+  {
+    "currency": "ALPHA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 122.168,
+    "source": "sample",
+    "name": "ALPHA",
+    "icon": "/tokens/ALPHA.svg",
+    "balance": "20.46362386"
+  },
+  {
+    "currency": "ALT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.915,
+    "source": "sample",
+    "name": "ALT",
+    "icon": "/tokens/ALT.svg",
+    "balance": "38.51190018"
+  },
+  {
+    "currency": "AMP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.942,
+    "source": "sample",
+    "name": "AMP",
+    "icon": "/tokens/AMP.svg",
+    "balance": "38.49588864"
+  },
+  {
+    "currency": "ampKUJI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 91.335,
+    "source": "sample",
+    "name": "ampKUJI",
+    "icon": "/tokens/ampKUJI.svg",
+    "balance": "27.37176329"
+  },
+  {
+    "currency": "ampLUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.49548589830508477,
+    "source": "snapshot",
+    "name": "ampLUNA",
+    "icon": "/tokens/ampLUNA.svg",
+    "balance": "5045.55227213"
+  },
+  {
+    "currency": "ANC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.96,
+    "source": "sample",
+    "name": "ANC",
+    "icon": "/tokens/ANC.svg",
+    "balance": "38.48522167"
+  },
+  {
+    "currency": "ANDR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 63.573,
+    "source": "sample",
+    "name": "ANDR",
+    "icon": "/tokens/ANDR.svg",
+    "balance": "39.32487062"
+  },
+  {
+    "currency": "ANIME",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 25.182,
+    "source": "sample",
+    "name": "ANIME",
+    "icon": "/tokens/ANIME.svg",
+    "balance": "99.27726154"
+  },
+  {
+    "currency": "ANKR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 63.79,
+    "source": "sample",
+    "name": "ANKR",
+    "icon": "/tokens/ANKR.svg",
+    "balance": "39.19109578"
+  },
+  {
+    "currency": "ANT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.977,
+    "source": "sample",
+    "name": "ANT",
+    "icon": "/tokens/ANT.svg",
+    "balance": "38.47515275"
+  },
+  {
+    "currency": "ANY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.982,
+    "source": "sample",
+    "name": "ANY",
+    "icon": "/tokens/ANY.svg",
+    "balance": "38.47219230"
+  },
+  {
+    "currency": "APE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.024,
+    "source": "sample",
+    "name": "APE",
+    "icon": "/tokens/APE.svg",
+    "balance": "38.44734252"
+  },
+  {
+    "currency": "APOLLO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 105.465,
+    "source": "sample",
+    "name": "APOLLO",
+    "icon": "/tokens/APOLLO.svg",
+    "balance": "23.70454653"
+  },
+  {
+    "currency": "APT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.039,
+    "source": "sample",
+    "name": "APT",
+    "icon": "/tokens/APT.svg",
+    "balance": "38.43847538"
+  },
+  {
+    "currency": "AR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.107,
+    "source": "sample",
+    "name": "AR",
+    "icon": "/tokens/AR.svg",
+    "balance": "1186.52112008"
+  },
+  {
+    "currency": "ARB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.083,
+    "source": "sample",
+    "name": "ARB",
+    "icon": "/tokens/ARB.svg",
+    "balance": "38.41248867"
+  },
+  {
+    "currency": "ARCH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.376,
+    "source": "sample",
+    "name": "ARCH",
+    "icon": "/tokens/ARCH.svg",
+    "balance": "37.10520066"
+  },
+  {
+    "currency": "ASA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.113,
+    "source": "sample",
+    "name": "ASA",
+    "icon": "/tokens/ASA.svg",
+    "balance": "38.39479059"
+  },
+  {
+    "currency": "ASTRO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 34.873,
+    "source": "sample",
+    "name": "ASTRO",
+    "icon": "/tokens/ASTRO.svg",
+    "balance": "71.68869899"
+  },
+  {
+    "currency": "ATOM-dATOM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 125.091,
+    "source": "sample",
+    "name": "ATOM-dATOM",
+    "icon": "/tokens/ATOM-dATOM.svg",
+    "balance": "19.98545059"
+  },
+  {
+    "currency": "AUDIO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.8,
+    "source": "sample",
+    "name": "AUDIO",
+    "icon": "/tokens/AUDIO.svg",
+    "balance": "31.72588832"
+  },
+  {
+    "currency": "AUT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.194,
+    "source": "sample",
+    "name": "AUT",
+    "icon": "/tokens/AUT.svg",
+    "balance": "38.34708716"
+  },
+  {
+    "currency": "AVA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.206,
+    "source": "sample",
+    "name": "AVA",
+    "icon": "/tokens/AVA.svg",
+    "balance": "38.34003006"
+  },
+  {
+    "currency": "AVAIL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 105.705,
+    "source": "sample",
+    "name": "AVAIL",
+    "icon": "/tokens/AVAIL.svg",
+    "balance": "23.65072608"
+  },
+  {
+    "currency": "AVAX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 10.5,
+    "source": "sample",
+    "name": "Avalanche",
+    "icon": "/tokens/AVAX.svg",
+    "balance": "238.09523810"
+  },
+  {
+    "currency": "AXL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.279,
+    "source": "sample",
+    "name": "AXL",
+    "icon": "/tokens/AXL.svg",
+    "balance": "38.29715529"
+  },
+  {
+    "currency": "axlUSDC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.989832,
+    "source": "snapshot",
+    "name": "axlUSDC",
+    "icon": "/tokens/axlUSDC.svg",
+    "balance": "2525.68112569"
+  },
+  {
+    "currency": "AXS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.286,
+    "source": "sample",
+    "name": "AXS",
+    "icon": "/tokens/AXS.svg",
+    "balance": "38.29304905"
+  },
+  {
+    "currency": "AXT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.287,
+    "source": "sample",
+    "name": "AXT",
+    "icon": "/tokens/AXT.svg",
+    "balance": "38.29246251"
+  },
+  {
+    "currency": "BAKE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.075,
+    "source": "sample",
+    "name": "BAKE",
+    "icon": "/tokens/BAKE.svg",
+    "balance": "30.83564601"
+  },
+  {
+    "currency": "BAL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.527,
+    "source": "sample",
+    "name": "BAL",
+    "icon": "/tokens/BAL.svg",
+    "balance": "38.15221207"
+  },
+  {
+    "currency": "BAND",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.167,
+    "source": "sample",
+    "name": "BAND",
+    "icon": "/tokens/BAND.svg",
+    "balance": "30.80069486"
+  },
+  {
+    "currency": "BAT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.535,
+    "source": "sample",
+    "name": "BAT",
+    "icon": "/tokens/BAT.svg",
+    "balance": "38.14755474"
+  },
+  {
+    "currency": "BCD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.581,
+    "source": "sample",
+    "name": "BCD",
+    "icon": "/tokens/BCD.svg",
+    "balance": "38.12079718"
+  },
+  {
+    "currency": "bCFX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 136.173,
+    "source": "sample",
+    "name": "bCFX",
+    "icon": "/tokens/bCFX.svg",
+    "balance": "18.35899921"
+  },
+  {
+    "currency": "BCH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.585,
+    "source": "sample",
+    "name": "BCH",
+    "icon": "/tokens/BCH.svg",
+    "balance": "38.11847221"
+  },
+  {
+    "currency": "BCHA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.9,
+    "source": "sample",
+    "name": "BCHA",
+    "icon": "/tokens/BCHA.svg",
+    "balance": "30.15681544"
+  },
+  {
+    "currency": "BCN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.591,
+    "source": "sample",
+    "name": "BCN",
+    "icon": "/tokens/BCN.svg",
+    "balance": "38.11498529"
+  },
+  {
+    "currency": "BCNA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.086,
+    "source": "sample",
+    "name": "BCNA",
+    "icon": "/tokens/BCNA.svg",
+    "balance": "30.08930506"
+  },
+  {
+    "currency": "BELT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 84.965,
+    "source": "sample",
+    "name": "BELT",
+    "icon": "/tokens/BELT.svg",
+    "balance": "29.42388042"
+  },
+  {
+    "currency": "BERA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 85.132,
+    "source": "sample",
+    "name": "BERA",
+    "icon": "/tokens/BERA.svg",
+    "balance": "29.36616079"
+  },
+  {
+    "currency": "beraSTONE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 139.037,
+    "source": "sample",
+    "name": "beraSTONE",
+    "icon": "/tokens/beraSTONE.svg",
+    "balance": "17.98082525"
+  },
+  {
+    "currency": "BETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 85.201,
+    "source": "sample",
+    "name": "BETH",
+    "icon": "/tokens/BETH.svg",
+    "balance": "29.34237861"
+  },
+  {
+    "currency": "BHC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.735,
+    "source": "sample",
+    "name": "BHC",
+    "icon": "/tokens/BHC.svg",
+    "balance": "38.03149007"
+  },
+  {
+    "currency": "BIT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.783,
+    "source": "sample",
+    "name": "BIT",
+    "icon": "/tokens/BIT.svg",
+    "balance": "38.00373957"
+  },
+  {
+    "currency": "BLAST",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 131.634,
+    "source": "sample",
+    "name": "BLAST",
+    "icon": "/tokens/BLAST.svg",
+    "balance": "18.99205372"
+  },
+  {
+    "currency": "BLD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.86,
+    "source": "sample",
+    "name": "BLD",
+    "icon": "/tokens/BLD.svg",
+    "balance": "37.95930762"
+  },
+  {
+    "currency": "BLOX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 91.789,
+    "source": "sample",
+    "name": "BLOX",
+    "icon": "/tokens/BLOX.svg",
+    "balance": "27.23637909"
+  },
+  {
+    "currency": "BLUR",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.20811525423728813,
+    "source": "snapshot",
+    "name": "BLUR",
+    "icon": "/tokens/BLUR.svg",
+    "balance": "12012.57451868"
+  },
+  {
+    "currency": "BNB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.92,
+    "source": "sample",
+    "name": "BNB",
+    "icon": "/tokens/BNB.svg",
+    "balance": "37.92475728"
+  },
+  {
+    "currency": "bNEO",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 7.1282679,
+    "source": "snapshot",
+    "name": "bNEO",
+    "icon": "/tokens/bNEO.svg",
+    "balance": "350.71633601"
+  },
+  {
+    "currency": "BNT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.938,
+    "source": "sample",
+    "name": "BNT",
+    "icon": "/tokens/BNT.svg",
+    "balance": "37.91440444"
+  },
+  {
+    "currency": "BOLT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 94.575,
+    "source": "sample",
+    "name": "BOLT",
+    "icon": "/tokens/BOLT.svg",
+    "balance": "26.43404705"
+  },
+  {
+    "currency": "BONK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 94.628,
+    "source": "sample",
+    "name": "BONK",
+    "icon": "/tokens/BONK.svg",
+    "balance": "26.41924166"
+  },
+  {
+    "currency": "BOOT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 94.668,
+    "source": "sample",
+    "name": "BOOT",
+    "icon": "/tokens/BOOT.svg",
+    "balance": "26.40807876"
+  },
+  {
+    "currency": "BRAINS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 11.767,
+    "source": "sample",
+    "name": "BRAINS",
+    "icon": "/tokens/BRAINS.svg",
+    "balance": "212.45857058"
+  },
+  {
+    "currency": "BRETT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 14.255,
+    "source": "sample",
+    "name": "BRETT",
+    "icon": "/tokens/BRETT.svg",
+    "balance": "175.37706068"
+  },
+  {
+    "currency": "BRKL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 97.419,
+    "source": "sample",
+    "name": "BRKL",
+    "icon": "/tokens/BRKL.svg",
+    "balance": "25.66234513"
+  },
+  {
+    "currency": "BTCST",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 71.884,
+    "source": "sample",
+    "name": "BTCST",
+    "icon": "/tokens/BTCST.svg",
+    "balance": "34.77825385"
+  },
+  {
+    "currency": "BTG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.111,
+    "source": "sample",
+    "name": "BTG",
+    "icon": "/tokens/BTG.svg",
+    "balance": "37.81518961"
+  },
+  {
+    "currency": "BTM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.117,
+    "source": "sample",
+    "name": "BTM",
+    "icon": "/tokens/BTM.svg",
+    "balance": "37.81175794"
+  },
+  {
+    "currency": "BTMX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 99.415,
+    "source": "sample",
+    "name": "BTMX",
+    "icon": "/tokens/BTMX.svg",
+    "balance": "25.14711060"
+  },
+  {
+    "currency": "BTSG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 99.584,
+    "source": "sample",
+    "name": "BTSG",
+    "icon": "/tokens/BTSG.svg",
+    "balance": "25.10443445"
+  },
+  {
+    "currency": "BTT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.124,
+    "source": "sample",
+    "name": "BTT",
+    "icon": "/tokens/BTT.svg",
+    "balance": "37.80775513"
+  },
+  {
+    "currency": "BUNNY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 112.096,
+    "source": "sample",
+    "name": "BUNNY",
+    "icon": "/tokens/BUNNY.svg",
+    "balance": "22.30231230"
+  },
+  {
+    "currency": "BUSD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.9998782611186441,
+    "source": "snapshot",
+    "name": "BUSD",
+    "icon": "/tokens/BUSD.svg",
+    "balance": "2500.30438426"
+  },
+  {
+    "currency": "BUSDT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 116.586,
+    "source": "sample",
+    "name": "BUSDT",
+    "icon": "/tokens/BUSDT.svg",
+    "balance": "21.44339801"
+  },
+  {
+    "currency": "C98",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.22,
+    "source": "sample",
+    "name": "C98",
+    "icon": "/tokens/C98.svg",
+    "balance": "37.75294473"
+  },
+  {
+    "currency": "CAKE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 110.866,
+    "source": "sample",
+    "name": "CAKE",
+    "icon": "/tokens/CAKE.svg",
+    "balance": "22.54974474"
+  },
+  {
+    "currency": "CANTO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 139.973,
+    "source": "sample",
+    "name": "CANTO",
+    "icon": "/tokens/CANTO.svg",
+    "balance": "17.86058740"
+  },
+  {
+    "currency": "CARB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 111.08,
+    "source": "sample",
+    "name": "CARB",
+    "icon": "/tokens/CARB.svg",
+    "balance": "22.50630176"
+  },
+  {
+    "currency": "CAT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.496,
+    "source": "sample",
+    "name": "CAT",
+    "icon": "/tokens/CAT.svg",
+    "balance": "37.59624639"
+  },
+  {
+    "currency": "cbBTC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.204,
+    "source": "sample",
+    "name": "cbBTC",
+    "icon": "/tokens/cbBTC.svg",
+    "balance": "38.93838390"
+  },
+  {
+    "currency": "cbETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.092,
+    "source": "sample",
+    "name": "cbETH",
+    "icon": "/tokens/cbETH.svg",
+    "balance": "37.26226674"
+  },
+  {
+    "currency": "CEL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.612,
+    "source": "sample",
+    "name": "CEL",
+    "icon": "/tokens/CEL.svg",
+    "balance": "37.53077524"
+  },
+  {
+    "currency": "CELO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 114.751,
+    "source": "sample",
+    "name": "CELO",
+    "icon": "/tokens/CELO.svg",
+    "balance": "21.78630252"
+  },
+  {
+    "currency": "CETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 114.992,
+    "source": "sample",
+    "name": "CETH",
+    "icon": "/tokens/CETH.svg",
+    "balance": "21.74064283"
+  },
+  {
+    "currency": "CFX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.655,
+    "source": "sample",
+    "name": "CFX",
+    "icon": "/tokens/CFX.svg",
+    "balance": "37.50656365"
+  },
+  {
+    "currency": "CGAS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 116.336,
+    "source": "sample",
+    "name": "CGAS",
+    "icon": "/tokens/CGAS.svg",
+    "balance": "21.48947875"
+  },
+  {
+    "currency": "CHEQ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 117.419,
+    "source": "sample",
+    "name": "CHEQ",
+    "icon": "/tokens/CHEQ.svg",
+    "balance": "21.29127313"
+  },
+  {
+    "currency": "CHOG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 117.719,
+    "source": "sample",
+    "name": "CHOG",
+    "icon": "/tokens/CHOG.svg",
+    "balance": "21.23701357"
+  },
+  {
+    "currency": "CHSB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 117.838,
+    "source": "sample",
+    "name": "CHSB",
+    "icon": "/tokens/CHSB.svg",
+    "balance": "21.21556713"
+  },
+  {
+    "currency": "CHT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.713,
+    "source": "sample",
+    "name": "CHT",
+    "icon": "/tokens/CHT.svg",
+    "balance": "37.47395560"
+  },
+  {
+    "currency": "CHZ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.719,
+    "source": "sample",
+    "name": "CHZ",
+    "icon": "/tokens/CHZ.svg",
+    "balance": "37.47058559"
+  },
+  {
+    "currency": "CKB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.788,
+    "source": "sample",
+    "name": "CKB",
+    "icon": "/tokens/CKB.svg",
+    "balance": "37.43187399"
+  },
+  {
+    "currency": "CMDX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 122.2,
+    "source": "sample",
+    "name": "CMDX",
+    "icon": "/tokens/CMDX.svg",
+    "balance": "20.45826514"
+  },
+  {
+    "currency": "cmETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 94.793,
+    "source": "sample",
+    "name": "cmETH",
+    "icon": "/tokens/cmETH.svg",
+    "balance": "26.37325541"
+  },
+  {
+    "currency": "CMST",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 122.661,
+    "source": "sample",
+    "name": "CMST",
+    "icon": "/tokens/CMST.svg",
+    "balance": "20.38137631"
+  },
+  {
+    "currency": "CNT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.899,
+    "source": "sample",
+    "name": "CNT",
+    "icon": "/tokens/CNT.svg",
+    "balance": "37.36976636"
+  },
+  {
+    "currency": "COIN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 124.267,
+    "source": "sample",
+    "name": "COIN",
+    "icon": "/tokens/COIN.svg",
+    "balance": "20.11797179"
+  },
+  {
+    "currency": "COMP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 124.393,
+    "source": "sample",
+    "name": "COMP",
+    "icon": "/tokens/COMP.svg",
+    "balance": "20.09759392"
+  },
+  {
+    "currency": "COOK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 124.45,
+    "source": "sample",
+    "name": "COOK",
+    "icon": "/tokens/COOK.svg",
+    "balance": "20.08838891"
+  },
+  {
+    "currency": "CRBRUS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 29.575,
+    "source": "sample",
+    "name": "CRBRUS",
+    "icon": "/tokens/CRBRUS.svg",
+    "balance": "84.53085376"
+  },
+  {
+    "currency": "CRE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.008,
+    "source": "sample",
+    "name": "CRE",
+    "icon": "/tokens/CRE.svg",
+    "balance": "37.30897803"
+  },
+  {
+    "currency": "CRO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.018,
+    "source": "sample",
+    "name": "CRO",
+    "icon": "/tokens/CRO.svg",
+    "balance": "37.30341102"
+  },
+  {
+    "currency": "CRV",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.025,
+    "source": "sample",
+    "name": "CRV",
+    "icon": "/tokens/CRV.svg",
+    "balance": "37.29951511"
+  },
+  {
+    "currency": "CTK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.076,
+    "source": "sample",
+    "name": "CTK",
+    "icon": "/tokens/CTK.svg",
+    "balance": "37.27115511"
+  },
+  {
+    "currency": "cUSD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 33.645,
+    "source": "sample",
+    "name": "cUSD",
+    "icon": "/tokens/cUSD.svg",
+    "balance": "74.30524595"
+  },
+  {
+    "currency": "CW",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.174,
+    "source": "sample",
+    "name": "CW",
+    "icon": "/tokens/CW.svg",
+    "balance": "1149.95400184"
+  },
+  {
+    "currency": "DAG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.444,
+    "source": "sample",
+    "name": "DAG",
+    "icon": "/tokens/DAG.svg",
+    "balance": "37.06778957"
+  },
+  {
+    "currency": "DAI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 1,
+    "source": "sample",
+    "name": "Dai",
+    "icon": "/tokens/DAI.svg",
+    "balance": "2500.00000000"
+  },
+  {
+    "currency": "DAK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.448,
+    "source": "sample",
+    "name": "DAK",
+    "icon": "/tokens/DAK.svg",
+    "balance": "37.06559127"
+  },
+  {
+    "currency": "DARC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 140.872,
+    "source": "sample",
+    "name": "DARC",
+    "icon": "/tokens/DARC.svg",
+    "balance": "17.74660685"
+  },
+  {
+    "currency": "DASH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 140.908,
+    "source": "sample",
+    "name": "DASH",
+    "icon": "/tokens/DASH.svg",
+    "balance": "17.74207284"
+  },
+  {
+    "currency": "dATOM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 21.775,
+    "source": "sample",
+    "name": "dATOM",
+    "icon": "/tokens/dATOM.svg",
+    "balance": "114.81056257"
+  },
+  {
+    "currency": "DBC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.471,
+    "source": "sample",
+    "name": "DBC",
+    "icon": "/tokens/DBC.svg",
+    "balance": "37.05295608"
+  },
+  {
+    "currency": "DCR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.517,
+    "source": "sample",
+    "name": "DCR",
+    "icon": "/tokens/DCR.svg",
+    "balance": "37.02771154"
+  },
+  {
+    "currency": "DEC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.564,
+    "source": "sample",
+    "name": "DEC",
+    "icon": "/tokens/DEC.svg",
+    "balance": "37.00195370"
+  },
+  {
+    "currency": "DEGEN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 125.465,
+    "source": "sample",
+    "name": "DEGEN",
+    "icon": "/tokens/DEGEN.svg",
+    "balance": "19.92587574"
+  },
+  {
+    "currency": "DENT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 144.609,
+    "source": "sample",
+    "name": "DENT",
+    "icon": "/tokens/DENT.svg",
+    "balance": "17.28799729"
+  },
+  {
+    "currency": "DGB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.625,
+    "source": "sample",
+    "name": "DGB",
+    "icon": "/tokens/DGB.svg",
+    "balance": "36.96857671"
+  },
+  {
+    "currency": "dGLP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 49.777,
+    "source": "sample",
+    "name": "dGLP",
+    "icon": "/tokens/dGLP.svg",
+    "balance": "50.22399904"
+  },
+  {
+    "currency": "DIG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.692,
+    "source": "sample",
+    "name": "DIG",
+    "icon": "/tokens/DIG.svg",
+    "balance": "36.93198605"
+  },
+  {
+    "currency": "dINJ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 51.755,
+    "source": "sample",
+    "name": "dINJ",
+    "icon": "/tokens/dINJ.svg",
+    "balance": "48.30451164"
+  },
+  {
+    "currency": "DKT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.767,
+    "source": "sample",
+    "name": "DKT",
+    "icon": "/tokens/DKT.svg",
+    "balance": "36.89111219"
+  },
+  {
+    "currency": "DMX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.833,
+    "source": "sample",
+    "name": "DMX",
+    "icon": "/tokens/DMX.svg",
+    "balance": "36.85521796"
+  },
+  {
+    "currency": "DODO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 3.904,
+    "source": "sample",
+    "name": "DODO",
+    "icon": "/tokens/DODO.svg",
+    "balance": "640.36885246"
+  },
+  {
+    "currency": "DOGE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 0.063,
+    "source": "sample",
+    "name": "Dogecoin",
+    "icon": "/tokens/DOGE.svg",
+    "balance": "39682.53968254"
+  },
+  {
+    "currency": "DOT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 4.6,
+    "source": "sample",
+    "name": "Polkadot",
+    "icon": "/tokens/DOT.svg",
+    "balance": "543.47826087"
+  },
+  {
+    "currency": "DPL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.914,
+    "source": "sample",
+    "name": "DPL",
+    "icon": "/tokens/DPL.svg",
+    "balance": "36.81126130"
+  },
+  {
+    "currency": "DPX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.926,
+    "source": "sample",
+    "name": "DPX",
+    "icon": "/tokens/DPX.svg",
+    "balance": "36.80475812"
+  },
+  {
+    "currency": "DRFT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 6.854,
+    "source": "sample",
+    "name": "DRFT",
+    "icon": "/tokens/DRFT.svg",
+    "balance": "364.75051065"
+  },
+  {
+    "currency": "DROP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 7.129,
+    "source": "sample",
+    "name": "DROP",
+    "icon": "/tokens/DROP.svg",
+    "balance": "350.68031982"
+  },
+  {
+    "currency": "DSM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.008,
+    "source": "sample",
+    "name": "DSM",
+    "icon": "/tokens/DSM.svg",
+    "balance": "36.76038113"
+  },
+  {
+    "currency": "DUVT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 10.233,
+    "source": "sample",
+    "name": "DUVT",
+    "icon": "/tokens/DUVT.svg",
+    "balance": "244.30763217"
+  },
+  {
+    "currency": "DVPN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 11.002,
+    "source": "sample",
+    "name": "DVPN",
+    "icon": "/tokens/DVPN.svg",
+    "balance": "227.23141247"
+  },
+  {
+    "currency": "dXCAD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 90.188,
+    "source": "sample",
+    "name": "dXCAD",
+    "icon": "/tokens/dXCAD.svg",
+    "balance": "27.71987404"
+  },
+  {
+    "currency": "DYDX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 13.523,
+    "source": "sample",
+    "name": "DYDX",
+    "icon": "/tokens/DYDX.svg",
+    "balance": "184.87022110"
+  },
+  {
+    "currency": "DYM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.194,
+    "source": "sample",
+    "name": "DYM",
+    "icon": "/tokens/DYM.svg",
+    "balance": "36.66011673"
+  },
+  {
+    "currency": "EEUR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 24.615,
+    "source": "sample",
+    "name": "EEUR",
+    "icon": "/tokens/EEUR.svg",
+    "balance": "101.56408694"
+  },
+  {
+    "currency": "eGLD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 79.556,
+    "source": "sample",
+    "name": "eGLD",
+    "icon": "/tokens/eGLD.svg",
+    "balance": "31.42440545"
+  },
+  {
+    "currency": "EIGEN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 118.15,
+    "source": "sample",
+    "name": "EIGEN",
+    "icon": "/tokens/EIGEN.svg",
+    "balance": "21.15954295"
+  },
+  {
+    "currency": "ELA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.74,
+    "source": "sample",
+    "name": "ELA",
+    "icon": "/tokens/ELA.svg",
+    "balance": "36.36892639"
+  },
+  {
+    "currency": "ELF",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.745,
+    "source": "sample",
+    "name": "ELF",
+    "icon": "/tokens/ELF.svg",
+    "balance": "36.36628118"
+  },
+  {
+    "currency": "ENA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.802,
+    "source": "sample",
+    "name": "ENA",
+    "icon": "/tokens/ENA.svg",
+    "balance": "36.33615302"
+  },
+  {
+    "currency": "ENJ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.811,
+    "source": "sample",
+    "name": "ENJ",
+    "icon": "/tokens/ENJ.svg",
+    "balance": "36.33140050"
+  },
+  {
+    "currency": "ENS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.82,
+    "source": "sample",
+    "name": "ENS",
+    "icon": "/tokens/ENS.svg",
+    "balance": "36.32664923"
+  },
+  {
+    "currency": "EOS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.851,
+    "source": "sample",
+    "name": "EOS",
+    "icon": "/tokens/EOS.svg",
+    "balance": "36.31029324"
+  },
+  {
+    "currency": "ePLAY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 34.051,
+    "source": "sample",
+    "name": "ePLAY",
+    "icon": "/tokens/ePLAY.svg",
+    "balance": "73.41928284"
+  },
+  {
+    "currency": "EPS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.882,
+    "source": "sample",
+    "name": "EPS",
+    "icon": "/tokens/EPS.svg",
+    "balance": "36.29395198"
+  },
+  {
+    "currency": "esFLUO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 60.296,
+    "source": "sample",
+    "name": "esFLUO",
+    "icon": "/tokens/esFLUO.svg",
+    "balance": "41.46212021"
+  },
+  {
+    "currency": "ETC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.99,
+    "source": "sample",
+    "name": "ETC",
+    "icon": "/tokens/ETC.svg",
+    "balance": "36.23713582"
+  },
+  {
+    "currency": "ETHBTC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 48.242,
+    "source": "sample",
+    "name": "ETHBTC",
+    "icon": "/tokens/ETHBTC.svg",
+    "balance": "51.82206376"
+  },
+  {
+    "currency": "ETN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.001,
+    "source": "sample",
+    "name": "ETN",
+    "icon": "/tokens/ETN.svg",
+    "balance": "36.23135897"
+  },
+  {
+    "currency": "EUROC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 36.512,
+    "source": "sample",
+    "name": "EUROC",
+    "icon": "/tokens/EUROC.svg",
+    "balance": "68.47063979"
+  },
+  {
+    "currency": "EUT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.038,
+    "source": "sample",
+    "name": "EUT",
+    "icon": "/tokens/EUT.svg",
+    "balance": "36.21194125"
+  },
+  {
+    "currency": "EVMOS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.06246181355932203,
+    "source": "snapshot",
+    "name": "EVMOS",
+    "icon": "/tokens/EVMOS.svg",
+    "balance": "40024.45426317"
+  },
+  {
+    "currency": "EWT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.1,
+    "source": "sample",
+    "name": "EWT",
+    "icon": "/tokens/EWT.svg",
+    "balance": "36.17945007"
+  },
+  {
+    "currency": "FARTCOIN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 26.696,
+    "source": "sample",
+    "name": "FARTCOIN",
+    "icon": "/tokens/FARTCOIN.svg",
+    "balance": "93.64698831"
+  },
+  {
+    "currency": "FBTC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 51.477,
+    "source": "sample",
+    "name": "FBTC",
+    "icon": "/tokens/FBTC.svg",
+    "balance": "48.56537871"
+  },
+  {
+    "currency": "FEES",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 53.911,
+    "source": "sample",
+    "name": "FEES",
+    "icon": "/tokens/FEES.svg",
+    "balance": "46.37272542"
+  },
+  {
+    "currency": "FET",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.503,
+    "source": "sample",
+    "name": "FET",
+    "icon": "/tokens/FET.svg",
+    "balance": "35.96967037"
+  },
+  {
+    "currency": "FIL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.619,
+    "source": "sample",
+    "name": "FIL",
+    "icon": "/tokens/FIL.svg",
+    "balance": "35.90973728"
+  },
+  {
+    "currency": "FIS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.626,
+    "source": "sample",
+    "name": "FIS",
+    "icon": "/tokens/FIS.svg",
+    "balance": "35.90612702"
+  },
+  {
+    "currency": "FLIX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 60.767,
+    "source": "sample",
+    "name": "FLIX",
+    "icon": "/tokens/FLIX.svg",
+    "balance": "41.14075074"
+  },
+  {
+    "currency": "FLM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.713,
+    "source": "sample",
+    "name": "FLM",
+    "icon": "/tokens/FLM.svg",
+    "balance": "35.86131711"
+  },
+  {
+    "currency": "FLOW",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 60.952,
+    "source": "sample",
+    "name": "FLOW",
+    "icon": "/tokens/FLOW.svg",
+    "balance": "41.01588135"
+  },
+  {
+    "currency": "FLUID",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 94.612,
+    "source": "sample",
+    "name": "FLUID",
+    "icon": "/tokens/FLUID.svg",
+    "balance": "26.42370947"
+  },
+  {
+    "currency": "FLUO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 61.13,
+    "source": "sample",
+    "name": "FLUO",
+    "icon": "/tokens/FLUO.svg",
+    "balance": "40.89645019"
+  },
+  {
+    "currency": "FRANK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 104.3,
+    "source": "sample",
+    "name": "FRANK",
+    "icon": "/tokens/FRANK.svg",
+    "balance": "23.96931927"
+  },
+  {
+    "currency": "FSGLP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 139.8,
+    "source": "sample",
+    "name": "FSGLP",
+    "icon": "/tokens/FSGLP.svg",
+    "balance": "17.88268956"
+  },
+  {
+    "currency": "FTM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.961,
+    "source": "sample",
+    "name": "FTM",
+    "icon": "/tokens/FTM.svg",
+    "balance": "35.73419477"
+  },
+  {
+    "currency": "FTT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.968,
+    "source": "sample",
+    "name": "FTT",
+    "icon": "/tokens/FTT.svg",
+    "balance": "35.73061971"
+  },
+  {
+    "currency": "FTTC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 68.775,
+    "source": "sample",
+    "name": "FTTC",
+    "icon": "/tokens/FTTC.svg",
+    "balance": "36.35041803"
+  },
+  {
+    "currency": "FUN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.993,
+    "source": "sample",
+    "name": "FUN",
+    "icon": "/tokens/FUN.svg",
+    "balance": "35.71785750"
+  },
+  {
+    "currency": "GALA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.057,
+    "source": "sample",
+    "name": "GALA",
+    "icon": "/tokens/GALA.svg",
+    "balance": "31.22775023"
+  },
+  {
+    "currency": "GAMBIT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 8.276,
+    "source": "sample",
+    "name": "GAMBIT",
+    "icon": "/tokens/GAMBIT.svg",
+    "balance": "302.07829870"
+  },
+  {
+    "currency": "GAS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 70.339,
+    "source": "sample",
+    "name": "GAS",
+    "icon": "/tokens/GAS.svg",
+    "balance": "35.54216011"
+  },
+  {
+    "currency": "GBT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 70.371,
+    "source": "sample",
+    "name": "GBT",
+    "icon": "/tokens/GBT.svg",
+    "balance": "35.52599793"
+  },
+  {
+    "currency": "GLP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 70.677,
+    "source": "sample",
+    "name": "GLP",
+    "icon": "/tokens/GLP.svg",
+    "balance": "35.37218614"
+  },
+  {
+    "currency": "GM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.288,
+    "source": "sample",
+    "name": "GM",
+    "icon": "/tokens/GM.svg",
+    "balance": "1092.65734266"
+  },
+  {
+    "currency": "GMX",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 36.345114372881355,
+    "source": "snapshot",
+    "name": "GMX",
+    "icon": "/tokens/GMX.svg",
+    "balance": "68.78503598"
+  },
+  {
+    "currency": "GNO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 70.738,
+    "source": "sample",
+    "name": "GNO",
+    "icon": "/tokens/GNO.svg",
+    "balance": "35.34168340"
+  },
+  {
+    "currency": "GNS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 70.742,
+    "source": "sample",
+    "name": "GNS",
+    "icon": "/tokens/GNS.svg",
+    "balance": "35.33968505"
+  },
+  {
+    "currency": "GOAT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 93.189,
+    "source": "sample",
+    "name": "GOAT",
+    "icon": "/tokens/GOAT.svg",
+    "balance": "26.82720064"
+  },
+  {
+    "currency": "GRASS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 127.984,
+    "source": "sample",
+    "name": "GRASS",
+    "icon": "/tokens/GRASS.svg",
+    "balance": "19.53369171"
+  },
+  {
+    "currency": "GRAV",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 96.074,
+    "source": "sample",
+    "name": "GRAV",
+    "icon": "/tokens/GRAV.svg",
+    "balance": "26.02160834"
+  },
+  {
+    "currency": "GRT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 70.867,
+    "source": "sample",
+    "name": "GRT",
+    "icon": "/tokens/GRT.svg",
+    "balance": "35.27735053"
+  },
+  {
+    "currency": "GT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.295,
+    "source": "sample",
+    "name": "GT",
+    "icon": "/tokens/GT.svg",
+    "balance": "1089.32461874"
+  },
+  {
+    "currency": "gZIL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 7.312,
+    "source": "sample",
+    "name": "gZIL",
+    "icon": "/tokens/gZIL.svg",
+    "balance": "341.90371991"
+  },
+  {
+    "currency": "HBAR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 110.485,
+    "source": "sample",
+    "name": "HBAR",
+    "icon": "/tokens/HBAR.svg",
+    "balance": "22.62750600"
+  },
+  {
+    "currency": "HDN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 71.388,
+    "source": "sample",
+    "name": "HDN",
+    "icon": "/tokens/HDN.svg",
+    "balance": "35.01989130"
+  },
+  {
+    "currency": "HELMET",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 62.167,
+    "source": "sample",
+    "name": "HELMET",
+    "icon": "/tokens/HELMET.svg",
+    "balance": "40.21426159"
+  },
+  {
+    "currency": "HKT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 71.611,
+    "source": "sample",
+    "name": "HKT",
+    "icon": "/tokens/HKT.svg",
+    "balance": "34.91083772"
+  },
+  {
+    "currency": "HNT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 71.704,
+    "source": "sample",
+    "name": "HNT",
+    "icon": "/tokens/HNT.svg",
+    "balance": "34.86555841"
+  },
+  {
+    "currency": "HOPE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 123.43,
+    "source": "sample",
+    "name": "HOPE",
+    "icon": "/tokens/HOPE.svg",
+    "balance": "20.25439520"
+  },
+  {
+    "currency": "HOT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 71.735,
+    "source": "sample",
+    "name": "HOT",
+    "icon": "/tokens/HOT.svg",
+    "balance": "34.85049139"
+  },
+  {
+    "currency": "HT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.326,
+    "source": "sample",
+    "name": "HT",
+    "icon": "/tokens/HT.svg",
+    "balance": "1074.80653482"
+  },
+  {
+    "currency": "HUAHUA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 106.474,
+    "source": "sample",
+    "name": "HUAHUA",
+    "icon": "/tokens/HUAHUA.svg",
+    "balance": "23.47991059"
+  },
+  {
+    "currency": "HUNY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 129.154,
+    "source": "sample",
+    "name": "HUNY",
+    "icon": "/tokens/HUNY.svg",
+    "balance": "19.35673692"
+  },
+  {
+    "currency": "HUSD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 129.288,
+    "source": "sample",
+    "name": "HUSD",
+    "icon": "/tokens/HUSD.svg",
+    "balance": "19.33667471"
+  },
+  {
+    "currency": "HYPE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 133.04,
+    "source": "sample",
+    "name": "HYPE",
+    "icon": "/tokens/HYPE.svg",
+    "balance": "18.79134095"
+  },
+  {
+    "currency": "IBCX",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 41.26811355932203,
+    "source": "snapshot",
+    "name": "IBCX",
+    "icon": "/tokens/IBCX.svg",
+    "balance": "60.57945916"
+  },
+  {
+    "currency": "ICP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.32,
+    "source": "sample",
+    "name": "ICP",
+    "icon": "/tokens/ICP.svg",
+    "balance": "34.56858407"
+  },
+  {
+    "currency": "ICX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.328,
+    "source": "sample",
+    "name": "ICX",
+    "icon": "/tokens/ICX.svg",
+    "balance": "34.56476054"
+  },
+  {
+    "currency": "IDT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.355,
+    "source": "sample",
+    "name": "IDT",
+    "icon": "/tokens/IDT.svg",
+    "balance": "34.55186235"
+  },
+  {
+    "currency": "INIT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.058,
+    "source": "sample",
+    "name": "INIT",
+    "icon": "/tokens/INIT.svg",
+    "balance": "1214.77162293"
+  },
+  {
+    "currency": "INJ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.655,
+    "source": "sample",
+    "name": "INJ",
+    "icon": "/tokens/INJ.svg",
+    "balance": "34.40919414"
+  },
+  {
+    "currency": "INT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.665,
+    "source": "sample",
+    "name": "INT",
+    "icon": "/tokens/INT.svg",
+    "balance": "34.40445882"
+  },
+  {
+    "currency": "ION",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.69,
+    "source": "sample",
+    "name": "ION",
+    "icon": "/tokens/ION.svg",
+    "balance": "34.39262622"
+  },
+  {
+    "currency": "IOST",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 3.329,
+    "source": "sample",
+    "name": "IOST",
+    "icon": "/tokens/IOST.svg",
+    "balance": "750.97626915"
+  },
+  {
+    "currency": "IOTX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 3.364,
+    "source": "sample",
+    "name": "IOTX",
+    "icon": "/tokens/IOTX.svg",
+    "balance": "743.16290131"
+  },
+  {
+    "currency": "IOV",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.698,
+    "source": "sample",
+    "name": "IOV",
+    "icon": "/tokens/IOV.svg",
+    "balance": "34.38884151"
+  },
+  {
+    "currency": "IP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.353,
+    "source": "sample",
+    "name": "IP",
+    "icon": "/tokens/IP.svg",
+    "balance": "1062.47343816"
+  },
+  {
+    "currency": "IRIS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.0177095593220339,
+    "source": "snapshot",
+    "name": "IRIS",
+    "icon": "/tokens/IRIS.svg",
+    "balance": "141166.69729266"
+  },
+  {
+    "currency": "iSEI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 60.04,
+    "source": "sample",
+    "name": "iSEI",
+    "icon": "/tokens/iSEI.svg",
+    "balance": "41.63890740"
+  },
+  {
+    "currency": "iUSD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 62.391,
+    "source": "sample",
+    "name": "iUSD",
+    "icon": "/tokens/iUSD.svg",
+    "balance": "40.06988187"
+  },
+  {
+    "currency": "IXO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.97,
+    "source": "sample",
+    "name": "IXO",
+    "icon": "/tokens/IXO.svg",
+    "balance": "34.26065506"
+  },
+  {
+    "currency": "JPT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 73.688,
+    "source": "sample",
+    "name": "JPT",
+    "icon": "/tokens/JPT.svg",
+    "balance": "33.92682662"
+  },
+  {
+    "currency": "JTO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 73.807,
+    "source": "sample",
+    "name": "JTO",
+    "icon": "/tokens/JTO.svg",
+    "balance": "33.87212595"
+  },
+  {
+    "currency": "JUNO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 38.726,
+    "source": "sample",
+    "name": "JUNO",
+    "icon": "/tokens/JUNO.svg",
+    "balance": "64.55611217"
+  },
+  {
+    "currency": "JUP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 73.839,
+    "source": "sample",
+    "name": "JUP",
+    "icon": "/tokens/JUP.svg",
+    "balance": "33.85744661"
+  },
+  {
+    "currency": "KAITO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 23.336,
+    "source": "sample",
+    "name": "KAITO",
+    "icon": "/tokens/KAITO.svg",
+    "balance": "107.13061364"
+  },
+  {
+    "currency": "KAS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 74.183,
+    "source": "sample",
+    "name": "KAS",
+    "icon": "/tokens/KAS.svg",
+    "balance": "33.70044350"
+  },
+  {
+    "currency": "KBONK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 58.703,
+    "source": "sample",
+    "name": "KBONK",
+    "icon": "/tokens/KBONK.svg",
+    "balance": "42.58726130"
+  },
+  {
+    "currency": "KCS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 74.245,
+    "source": "sample",
+    "name": "KCS",
+    "icon": "/tokens/KCS.svg",
+    "balance": "33.67230117"
+  },
+  {
+    "currency": "KFLOKI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 25.238,
+    "source": "sample",
+    "name": "KFLOKI",
+    "icon": "/tokens/KFLOKI.svg",
+    "balance": "99.05697757"
+  },
+  {
+    "currency": "KLAY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 59.475,
+    "source": "sample",
+    "name": "KLAY",
+    "icon": "/tokens/KLAY.svg",
+    "balance": "42.03446826"
+  },
+  {
+    "currency": "KMD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 74.54,
+    "source": "sample",
+    "name": "KMD",
+    "icon": "/tokens/KMD.svg",
+    "balance": "33.53903944"
+  },
+  {
+    "currency": "KNC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 74.57,
+    "source": "sample",
+    "name": "KNC",
+    "icon": "/tokens/KNC.svg",
+    "balance": "33.52554647"
+  },
+  {
+    "currency": "KPEPE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 16.223,
+    "source": "sample",
+    "name": "KPEPE",
+    "icon": "/tokens/KPEPE.svg",
+    "balance": "154.10220058"
+  },
+  {
+    "currency": "KRT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 74.711,
+    "source": "sample",
+    "name": "KRT",
+    "icon": "/tokens/KRT.svg",
+    "balance": "33.46227463"
+  },
+  {
+    "currency": "KSHIB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 108.259,
+    "source": "sample",
+    "name": "KSHIB",
+    "icon": "/tokens/KSHIB.svg",
+    "balance": "23.09276827"
+  },
+  {
+    "currency": "KSM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 74.735,
+    "source": "sample",
+    "name": "KSM",
+    "icon": "/tokens/KSM.svg",
+    "balance": "33.45152873"
+  },
+  {
+    "currency": "KUJI",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.675,
+    "source": "snapshot",
+    "name": "KUJI",
+    "icon": "/tokens/KUJI.svg",
+    "balance": "3703.70370370"
+  },
+  {
+    "currency": "LAYER",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 61.771,
+    "source": "sample",
+    "name": "LAYER",
+    "icon": "/tokens/LAYER.svg",
+    "balance": "40.47206618"
+  },
+  {
+    "currency": "LBTC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.223,
+    "source": "sample",
+    "name": "LBTC",
+    "icon": "/tokens/LBTC.svg",
+    "balance": "31.16313277"
+  },
+  {
+    "currency": "LDO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.233,
+    "source": "sample",
+    "name": "LDO",
+    "icon": "/tokens/LDO.svg",
+    "balance": "33.23009849"
+  },
+  {
+    "currency": "LEO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.264,
+    "source": "sample",
+    "name": "LEO",
+    "icon": "/tokens/LEO.svg",
+    "balance": "33.21641156"
+  },
+  {
+    "currency": "LET",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.269,
+    "source": "sample",
+    "name": "LET",
+    "icon": "/tokens/LET.svg",
+    "balance": "33.21420505"
+  },
+  {
+    "currency": "LIKE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 86.673,
+    "source": "sample",
+    "name": "LIKE",
+    "icon": "/tokens/LIKE.svg",
+    "balance": "28.84404601"
+  },
+  {
+    "currency": "LINK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 6.1,
+    "source": "sample",
+    "name": "Chainlink",
+    "icon": "/tokens/LINK.svg",
+    "balance": "409.83606557"
+  },
+  {
+    "currency": "Liquid Staking Index",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 62.399,
+    "source": "sample",
+    "name": "Liquid Staking Index",
+    "icon": "/tokens/Liquid Staking Index.svg",
+    "balance": "40.06474463"
+  },
+  {
+    "currency": "LKT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.455,
+    "source": "sample",
+    "name": "LKT",
+    "icon": "/tokens/LKT.svg",
+    "balance": "33.13233053"
+  },
+  {
+    "currency": "LOOM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 92.571,
+    "source": "sample",
+    "name": "LOOM",
+    "icon": "/tokens/LOOM.svg",
+    "balance": "27.00629787"
+  },
+  {
+    "currency": "LOOP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 92.574,
+    "source": "sample",
+    "name": "LOOP",
+    "icon": "/tokens/LOOP.svg",
+    "balance": "27.00542269"
+  },
+  {
+    "currency": "LOTA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 92.714,
+    "source": "sample",
+    "name": "LOTA",
+    "icon": "/tokens/LOTA.svg",
+    "balance": "26.96464396"
+  },
+  {
+    "currency": "LPberaSTONE_10APR2025",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 65.839,
+    "source": "sample",
+    "name": "LPberaSTONE_10APR2025",
+    "icon": "/tokens/LPberaSTONE_10APR2025.svg",
+    "balance": "37.97141512"
+  },
+  {
+    "currency": "LPcmETH_26JUN2025",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 32.23,
+    "source": "sample",
+    "name": "LPcmETH_26JUN2025",
+    "icon": "/tokens/LPcmETH_26JUN2025.svg",
+    "balance": "77.56748371"
+  },
+  {
+    "currency": "LPLBTC_29MAY2025",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 96.307,
+    "source": "sample",
+    "name": "LPLBTC_29MAY2025",
+    "icon": "/tokens/LPLBTC_29MAY2025.svg",
+    "balance": "25.95865306"
+  },
+  {
+    "currency": "LPT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.61,
+    "source": "sample",
+    "name": "LPT",
+    "icon": "/tokens/LPT.svg",
+    "balance": "33.06440947"
+  },
+  {
+    "currency": "LRC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.655,
+    "source": "sample",
+    "name": "LRC",
+    "icon": "/tokens/LRC.svg",
+    "balance": "33.04474258"
+  },
+  {
+    "currency": "LSI",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 67.69661525423729,
+    "source": "snapshot",
+    "name": "LSI",
+    "icon": "/tokens/LSI.svg",
+    "balance": "36.92946820"
+  },
+  {
+    "currency": "LSK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.694,
+    "source": "sample",
+    "name": "LSK",
+    "icon": "/tokens/LSK.svg",
+    "balance": "33.02771686"
+  },
+  {
+    "currency": "LTC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.717,
+    "source": "sample",
+    "name": "LTC",
+    "icon": "/tokens/LTC.svg",
+    "balance": "33.01768427"
+  },
+  {
+    "currency": "LUM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.758,
+    "source": "sample",
+    "name": "LUM",
+    "icon": "/tokens/LUM.svg",
+    "balance": "32.99981520"
+  },
+  {
+    "currency": "LUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.40955638983050846,
+    "source": "snapshot",
+    "name": "LUNA",
+    "icon": "/tokens/LUNA.svg",
+    "balance": "6104.16553636"
+  },
+  {
+    "currency": "LUNAX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 46.902,
+    "source": "sample",
+    "name": "LUNAX",
+    "icon": "/tokens/LUNAX.svg",
+    "balance": "53.30263102"
+  },
+  {
+    "currency": "LUNC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 98.296,
+    "source": "sample",
+    "name": "LUNC",
+    "icon": "/tokens/LUNC.svg",
+    "balance": "25.43338488"
+  },
+  {
+    "currency": "LUNI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 98.302,
+    "source": "sample",
+    "name": "LUNI",
+    "icon": "/tokens/LUNI.svg",
+    "balance": "25.43183252"
+  },
+  {
+    "currency": "LUNR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 98.311,
+    "source": "sample",
+    "name": "LUNR",
+    "icon": "/tokens/LUNR.svg",
+    "balance": "25.42950433"
+  },
+  {
+    "currency": "LUV",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.767,
+    "source": "sample",
+    "name": "LUV",
+    "icon": "/tokens/LUV.svg",
+    "balance": "32.99589531"
+  },
+  {
+    "currency": "LVN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.79,
+    "source": "sample",
+    "name": "LVN",
+    "icon": "/tokens/LVN.svg",
+    "balance": "32.98588204"
+  },
+  {
+    "currency": "M87",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.798,
+    "source": "sample",
+    "name": "M87",
+    "icon": "/tokens/M87.svg",
+    "balance": "32.98240059"
+  },
+  {
+    "currency": "MANA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 108.865,
+    "source": "sample",
+    "name": "MANA",
+    "icon": "/tokens/MANA.svg",
+    "balance": "22.96422174"
+  },
+  {
+    "currency": "MANTA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 75.169,
+    "source": "sample",
+    "name": "MANTA",
+    "icon": "/tokens/MANTA.svg",
+    "balance": "33.25839109"
+  },
+  {
+    "currency": "MARBLE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 32.215,
+    "source": "sample",
+    "name": "MARBLE",
+    "icon": "/tokens/MARBLE.svg",
+    "balance": "77.60360081"
+  },
+  {
+    "currency": "MATH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 109.058,
+    "source": "sample",
+    "name": "MATH",
+    "icon": "/tokens/MATH.svg",
+    "balance": "22.92358195"
+  },
+  {
+    "currency": "MATIC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.596,
+    "source": "sample",
+    "name": "Polygon",
+    "icon": "/tokens/MATIC.svg",
+    "balance": "31.01890913"
+  },
+  {
+    "currency": "MDX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.203,
+    "source": "sample",
+    "name": "MDX",
+    "icon": "/tokens/MDX.svg",
+    "balance": "32.80710733"
+  },
+  {
+    "currency": "ME",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.466,
+    "source": "sample",
+    "name": "ME",
+    "icon": "/tokens/ME.svg",
+    "balance": "1013.78751014"
+  },
+  {
+    "currency": "MED",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.214,
+    "source": "sample",
+    "name": "MED",
+    "icon": "/tokens/MED.svg",
+    "balance": "32.80237227"
+  },
+  {
+    "currency": "MEME",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 112.682,
+    "source": "sample",
+    "name": "MEME",
+    "icon": "/tokens/MEME.svg",
+    "balance": "22.18632967"
+  },
+  {
+    "currency": "mETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 16.214,
+    "source": "sample",
+    "name": "mETH",
+    "icon": "/tokens/mETH.svg",
+    "balance": "154.18773899"
+  },
+  {
+    "currency": "METIS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 49.776,
+    "source": "sample",
+    "name": "METIS",
+    "icon": "/tokens/METIS.svg",
+    "balance": "50.22500804"
+  },
+  {
+    "currency": "MEW",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.233,
+    "source": "sample",
+    "name": "MEW",
+    "icon": "/tokens/MEW.svg",
+    "balance": "32.79419674"
+  },
+  {
+    "currency": "MIAW",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 116.172,
+    "source": "sample",
+    "name": "MIAW",
+    "icon": "/tokens/MIAW.svg",
+    "balance": "21.51981545"
+  },
+  {
+    "currency": "MILK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 116.501,
+    "source": "sample",
+    "name": "MILK",
+    "icon": "/tokens/MILK.svg",
+    "balance": "21.45904327"
+  },
+  {
+    "currency": "milkTIA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 125.243,
+    "source": "sample",
+    "name": "milkTIA",
+    "icon": "/tokens/milkTIA.svg",
+    "balance": "19.96119544"
+  },
+  {
+    "currency": "MINA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 116.553,
+    "source": "sample",
+    "name": "MINA",
+    "icon": "/tokens/MINA.svg",
+    "balance": "21.44946934"
+  },
+  {
+    "currency": "MINE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 116.557,
+    "source": "sample",
+    "name": "MINE",
+    "icon": "/tokens/MINE.svg",
+    "balance": "21.44873324"
+  },
+  {
+    "currency": "MIOTA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 14.458,
+    "source": "sample",
+    "name": "MIOTA",
+    "icon": "/tokens/MIOTA.svg",
+    "balance": "172.91464933"
+  },
+  {
+    "currency": "MIR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.352,
+    "source": "sample",
+    "name": "MIR",
+    "icon": "/tokens/MIR.svg",
+    "balance": "32.74308466"
+  },
+  {
+    "currency": "MKR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.414,
+    "source": "sample",
+    "name": "MKR",
+    "icon": "/tokens/MKR.svg",
+    "balance": "32.71651792"
+  },
+  {
+    "currency": "MMOG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 120.434,
+    "source": "sample",
+    "name": "MMOG",
+    "icon": "/tokens/MMOG.svg",
+    "balance": "20.75825763"
+  },
+  {
+    "currency": "MNT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.509,
+    "source": "sample",
+    "name": "MNT",
+    "icon": "/tokens/MNT.svg",
+    "balance": "32.67589434"
+  },
+  {
+    "currency": "MNTA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 121.544,
+    "source": "sample",
+    "name": "MNTA",
+    "icon": "/tokens/MNTA.svg",
+    "balance": "20.56868295"
+  },
+  {
+    "currency": "MNTL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 121.555,
+    "source": "sample",
+    "name": "MNTL",
+    "icon": "/tokens/MNTL.svg",
+    "balance": "20.56682160"
+  },
+  {
+    "currency": "MON",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.534,
+    "source": "sample",
+    "name": "MON",
+    "icon": "/tokens/MON.svg",
+    "balance": "32.66522069"
+  },
+  {
+    "currency": "MOODENG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 112.385,
+    "source": "sample",
+    "name": "MOODENG",
+    "icon": "/tokens/MOODENG.svg",
+    "balance": "22.24496152"
+  },
+  {
+    "currency": "MORPHO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 74.849,
+    "source": "sample",
+    "name": "MORPHO",
+    "icon": "/tokens/MORPHO.svg",
+    "balance": "33.40057983"
+  },
+  {
+    "currency": "MYT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.85,
+    "source": "sample",
+    "name": "MYT",
+    "icon": "/tokens/MYT.svg",
+    "balance": "32.53090436"
+  },
+  {
+    "currency": "NANO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 138.67,
+    "source": "sample",
+    "name": "NANO",
+    "icon": "/tokens/NANO.svg",
+    "balance": "18.02841278"
+  },
+  {
+    "currency": "NAS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.066,
+    "source": "sample",
+    "name": "NAS",
+    "icon": "/tokens/NAS.svg",
+    "balance": "32.43972699"
+  },
+  {
+    "currency": "NAT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.067,
+    "source": "sample",
+    "name": "NAT",
+    "icon": "/tokens/NAT.svg",
+    "balance": "32.43930606"
+  },
+  {
+    "currency": "NEAR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 142.114,
+    "source": "sample",
+    "name": "NEAR",
+    "icon": "/tokens/NEAR.svg",
+    "balance": "17.59151104"
+  },
+  {
+    "currency": "NEIROETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 93.732,
+    "source": "sample",
+    "name": "NEIROETH",
+    "icon": "/tokens/NEIROETH.svg",
+    "balance": "26.67178765"
+  },
+  {
+    "currency": "NEO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.186,
+    "source": "sample",
+    "name": "NEO",
+    "icon": "/tokens/NEO.svg",
+    "balance": "32.38929340"
+  },
+  {
+    "currency": "NETA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 142.686,
+    "source": "sample",
+    "name": "NETA",
+    "icon": "/tokens/NETA.svg",
+    "balance": "17.52099015"
+  },
+  {
+    "currency": "NEX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.195,
+    "source": "sample",
+    "name": "NEX",
+    "icon": "/tokens/NEX.svg",
+    "balance": "32.38551720"
+  },
+  {
+    "currency": "NEXO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 142.824,
+    "source": "sample",
+    "name": "NEXO",
+    "icon": "/tokens/NEXO.svg",
+    "balance": "17.50406094"
+  },
+  {
+    "currency": "NGM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.246,
+    "source": "sample",
+    "name": "NGM",
+    "icon": "/tokens/NGM.svg",
+    "balance": "32.36413536"
+  },
+  {
+    "currency": "NIM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.308,
+    "source": "sample",
+    "name": "NIM",
+    "icon": "/tokens/NIM.svg",
+    "balance": "32.33817975"
+  },
+  {
+    "currency": "NKN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.371,
+    "source": "sample",
+    "name": "NKN",
+    "icon": "/tokens/NKN.svg",
+    "balance": "32.31184811"
+  },
+  {
+    "currency": "nLEND",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 120.231,
+    "source": "sample",
+    "name": "nLEND",
+    "icon": "/tokens/nLEND.svg",
+    "balance": "20.79330622"
+  },
+  {
+    "currency": "NMR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.437,
+    "source": "sample",
+    "name": "NMR",
+    "icon": "/tokens/NMR.svg",
+    "balance": "32.28430853"
+  },
+  {
+    "currency": "nNEO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 54.196,
+    "source": "sample",
+    "name": "nNEO",
+    "icon": "/tokens/nNEO.svg",
+    "balance": "46.12886560"
+  },
+  {
+    "currency": "NOT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.501,
+    "source": "sample",
+    "name": "NOT",
+    "icon": "/tokens/NOT.svg",
+    "balance": "32.25764829"
+  },
+  {
+    "currency": "NOTE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.3,
+    "source": "sample",
+    "name": "NOTE",
+    "icon": "/tokens/NOTE.svg",
+    "balance": "1086.95652174"
+  },
+  {
+    "currency": "NTRN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 7.052,
+    "source": "sample",
+    "name": "NTRN",
+    "icon": "/tokens/NTRN.svg",
+    "balance": "354.50935905"
+  },
+  {
+    "currency": "NTRN-dATOM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.916,
+    "source": "sample",
+    "name": "NTRN-dATOM",
+    "icon": "/tokens/NTRN-dATOM.svg",
+    "balance": "37.36027258"
+  },
+  {
+    "currency": "NXM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 77.773,
+    "source": "sample",
+    "name": "NXM",
+    "icon": "/tokens/NXM.svg",
+    "balance": "32.14483175"
+  },
+  {
+    "currency": "OCEAN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 22.568,
+    "source": "sample",
+    "name": "OCEAN",
+    "icon": "/tokens/OCEAN.svg",
+    "balance": "110.77632045"
+  },
+  {
+    "currency": "OCH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.078,
+    "source": "sample",
+    "name": "OCH",
+    "icon": "/tokens/OCH.svg",
+    "balance": "32.01926279"
+  },
+  {
+    "currency": "OGN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.208,
+    "source": "sample",
+    "name": "OGN",
+    "icon": "/tokens/OGN.svg",
+    "balance": "31.96603928"
+  },
+  {
+    "currency": "OKB",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 42.97562059322034,
+    "source": "snapshot",
+    "name": "OKB",
+    "icon": "/tokens/OKB.svg",
+    "balance": "58.17251655"
+  },
+  {
+    "currency": "OKT",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 13.561577966101694,
+    "source": "snapshot",
+    "name": "OKT",
+    "icon": "/tokens/OKT.svg",
+    "balance": "184.34432971"
+  },
+  {
+    "currency": "OM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.536,
+    "source": "sample",
+    "name": "OM",
+    "icon": "/tokens/OM.svg",
+    "balance": "985.80441640"
+  },
+  {
+    "currency": "OMG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.387,
+    "source": "sample",
+    "name": "OMG",
+    "icon": "/tokens/OMG.svg",
+    "balance": "31.89304349"
+  },
+  {
+    "currency": "OMG_2",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 23.302,
+    "source": "sample",
+    "name": "OMG_2",
+    "icon": "/tokens/OMG_2.svg",
+    "balance": "107.28692816"
+  },
+  {
+    "currency": "OMI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.389,
+    "source": "sample",
+    "name": "OMI",
+    "icon": "/tokens/OMI.svg",
+    "balance": "31.89222978"
+  },
+  {
+    "currency": "OMNI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 29.987,
+    "source": "sample",
+    "name": "OMNI",
+    "icon": "/tokens/OMNI.svg",
+    "balance": "83.36946010"
+  },
+  {
+    "currency": "ONDO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 30.644,
+    "source": "sample",
+    "name": "ONDO",
+    "icon": "/tokens/ONDO.svg",
+    "balance": "81.58203890"
+  },
+  {
+    "currency": "ONE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.416,
+    "source": "sample",
+    "name": "ONE",
+    "icon": "/tokens/ONE.svg",
+    "balance": "31.88124872"
+  },
+  {
+    "currency": "ONT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.431,
+    "source": "sample",
+    "name": "ONT",
+    "icon": "/tokens/ONT.svg",
+    "balance": "31.87515141"
+  },
+  {
+    "currency": "OP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.539,
+    "source": "sample",
+    "name": "OP",
+    "icon": "/tokens/OP.svg",
+    "balance": "984.63962190"
+  },
+  {
+    "currency": "OPUL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 33.09,
+    "source": "sample",
+    "name": "OPUL",
+    "icon": "/tokens/OPUL.svg",
+    "balance": "75.55152614"
+  },
+  {
+    "currency": "ORDI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 34.482,
+    "source": "sample",
+    "name": "ORDI",
+    "icon": "/tokens/ORDI.svg",
+    "balance": "72.50159504"
+  },
+  {
+    "currency": "ORION",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 23.711,
+    "source": "sample",
+    "name": "ORION",
+    "icon": "/tokens/ORION.svg",
+    "balance": "105.43629539"
+  },
+  {
+    "currency": "ORNE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 34.788,
+    "source": "sample",
+    "name": "ORNE",
+    "icon": "/tokens/ORNE.svg",
+    "balance": "71.86386110"
+  },
+  {
+    "currency": "OSMO",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 0.3772974333333333,
+    "source": "snapshot",
+    "name": "OSMO",
+    "icon": "/tokens/OSMO.svg",
+    "balance": "6626.07210951"
+  },
+  {
+    "currency": "OXT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.741,
+    "source": "sample",
+    "name": "OXT",
+    "icon": "/tokens/OXT.svg",
+    "balance": "31.74966028"
+  },
+  {
+    "currency": "OXY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.746,
+    "source": "sample",
+    "name": "OXY",
+    "icon": "/tokens/OXY.svg",
+    "balance": "31.74764432"
+  },
+  {
+    "currency": "PAX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.993,
+    "source": "sample",
+    "name": "PAX",
+    "icon": "/tokens/PAX.svg",
+    "balance": "31.64837391"
+  },
+  {
+    "currency": "PAXG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 48.554,
+    "source": "sample",
+    "name": "PAXG",
+    "icon": "/tokens/PAXG.svg",
+    "balance": "51.48906372"
+  },
+  {
+    "currency": "PENDLE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 96.51,
+    "source": "sample",
+    "name": "PENDLE",
+    "icon": "/tokens/PENDLE.svg",
+    "balance": "25.90405139"
+  },
+  {
+    "currency": "PENGU",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 114.513,
+    "source": "sample",
+    "name": "PENGU",
+    "icon": "/tokens/PENGU.svg",
+    "balance": "21.83158244"
+  },
+  {
+    "currency": "PEPE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 52.148,
+    "source": "sample",
+    "name": "PEPE",
+    "icon": "/tokens/PEPE.svg",
+    "balance": "47.94047710"
+  },
+  {
+    "currency": "PHT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 79.206,
+    "source": "sample",
+    "name": "PHT",
+    "icon": "/tokens/PHT.svg",
+    "balance": "31.56326541"
+  },
+  {
+    "currency": "PLAY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 58.43,
+    "source": "sample",
+    "name": "PLAY",
+    "icon": "/tokens/PLAY.svg",
+    "balance": "42.78623995"
+  },
+  {
+    "currency": "PLQ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 79.327,
+    "source": "sample",
+    "name": "PLQ",
+    "icon": "/tokens/PLQ.svg",
+    "balance": "31.51512096"
+  },
+  {
+    "currency": "PLY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 79.335,
+    "source": "sample",
+    "name": "PLY",
+    "icon": "/tokens/PLY.svg",
+    "balance": "31.51194303"
+  },
+  {
+    "currency": "PNUT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 60.967,
+    "source": "sample",
+    "name": "PNUT",
+    "icon": "/tokens/PNUT.svg",
+    "balance": "41.00579002"
+  },
+  {
+    "currency": "POL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 79.415,
+    "source": "sample",
+    "name": "POL",
+    "icon": "/tokens/POL.svg",
+    "balance": "31.48019895"
+  },
+  {
+    "currency": "POLY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 61.654,
+    "source": "sample",
+    "name": "POLY",
+    "icon": "/tokens/POLY.svg",
+    "balance": "40.54886950"
+  },
+  {
+    "currency": "POPCAT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 90.015,
+    "source": "sample",
+    "name": "POPCAT",
+    "icon": "/tokens/POPCAT.svg",
+    "balance": "27.77314892"
+  },
+  {
+    "currency": "PORT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 61.835,
+    "source": "sample",
+    "name": "PORT",
+    "icon": "/tokens/PORT.svg",
+    "balance": "40.43017708"
+  },
+  {
+    "currency": "PROM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.618,
+    "source": "sample",
+    "name": "PROM",
+    "icon": "/tokens/PROM.svg",
+    "balance": "38.68891021"
+  },
+  {
+    "currency": "PSI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 79.536,
+    "source": "sample",
+    "name": "PSI",
+    "icon": "/tokens/PSI.svg",
+    "balance": "31.43230738"
+  },
+  {
+    "currency": "PSTAKE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 1.636,
+    "source": "sample",
+    "name": "PSTAKE",
+    "icon": "/tokens/PSTAKE.svg",
+    "balance": "1528.11735941"
+  },
+  {
+    "currency": "PTberaSTONE_10APR2025",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.591,
+    "source": "sample",
+    "name": "PTberaSTONE_10APR2025",
+    "icon": "/tokens/PTberaSTONE_10APR2025.svg",
+    "balance": "34.43953107"
+  },
+  {
+    "currency": "PTcmETH_26JUN2025",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 17.014,
+    "source": "sample",
+    "name": "PTcmETH_26JUN2025",
+    "icon": "/tokens/PTcmETH_26JUN2025.svg",
+    "balance": "146.93781592"
+  },
+  {
+    "currency": "PTLBTC_29MAY2025",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 99.539,
+    "source": "sample",
+    "name": "PTLBTC_29MAY2025",
+    "icon": "/tokens/PTLBTC_29MAY2025.svg",
+    "balance": "25.11578376"
+  },
+  {
+    "currency": "PTMETH_26DEC2024",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 13.881,
+    "source": "sample",
+    "name": "PTMETH_26DEC2024",
+    "icon": "/tokens/PTMETH_26DEC2024.svg",
+    "balance": "180.10229811"
+  },
+  {
+    "currency": "PUDGY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 131.563,
+    "source": "sample",
+    "name": "PUDGY",
+    "icon": "/tokens/PUDGY.svg",
+    "balance": "19.00230308"
+  },
+  {
+    "currency": "PUMP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.442,
+    "source": "sample",
+    "name": "PUMP",
+    "icon": "/tokens/PUMP.svg",
+    "balance": "37.06888882"
+  },
+  {
+    "currency": "PUNDIX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 22.772,
+    "source": "sample",
+    "name": "PUNDIX",
+    "icon": "/tokens/PUNDIX.svg",
+    "balance": "109.78394520"
+  },
+  {
+    "currency": "PURR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 67.599,
+    "source": "sample",
+    "name": "PURR",
+    "icon": "/tokens/PURR.svg",
+    "balance": "36.98279560"
+  },
+  {
+    "currency": "PURSE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 145.369,
+    "source": "sample",
+    "name": "PURSE",
+    "icon": "/tokens/PURSE.svg",
+    "balance": "17.19761435"
+  },
+  {
+    "currency": "PYTH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 71.495,
+    "source": "sample",
+    "name": "PYTH",
+    "icon": "/tokens/PYTH.svg",
+    "balance": "34.96748024"
+  },
+  {
+    "currency": "QCK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.003,
+    "source": "sample",
+    "name": "QCK",
+    "icon": "/tokens/QCK.svg",
+    "balance": "31.24882817"
+  },
+  {
+    "currency": "QKC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.243,
+    "source": "sample",
+    "name": "QKC",
+    "icon": "/tokens/QKC.svg",
+    "balance": "31.15536558"
+  },
+  {
+    "currency": "QNT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.353,
+    "source": "sample",
+    "name": "QNT",
+    "icon": "/tokens/QNT.svg",
+    "balance": "31.11271514"
+  },
+  {
+    "currency": "QTUM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 96.517,
+    "source": "sample",
+    "name": "QTUM",
+    "icon": "/tokens/QTUM.svg",
+    "balance": "25.90217267"
+  },
+  {
+    "currency": "RATOM",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 10.250918915254237,
+    "source": "snapshot",
+    "name": "RATOM",
+    "icon": "/tokens/rATOM.svg",
+    "balance": "243.88057507"
+  },
+  {
+    "currency": "RAY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.916,
+    "source": "sample",
+    "name": "RAY",
+    "icon": "/tokens/RAY.svg",
+    "balance": "30.89623807"
+  },
+  {
+    "currency": "RBN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.936,
+    "source": "sample",
+    "name": "RBN",
+    "icon": "/tokens/RBN.svg",
+    "balance": "30.88860334"
+  },
+  {
+    "currency": "REEF",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 111.39,
+    "source": "sample",
+    "name": "REEF",
+    "icon": "/tokens/REEF.svg",
+    "balance": "22.44366640"
+  },
+  {
+    "currency": "REGEN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 4.759,
+    "source": "sample",
+    "name": "REGEN",
+    "icon": "/tokens/REGEN.svg",
+    "balance": "525.32044547"
+  },
+  {
+    "currency": "REN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.029,
+    "source": "sample",
+    "name": "REN",
+    "icon": "/tokens/REN.svg",
+    "balance": "30.85315134"
+  },
+  {
+    "currency": "REP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.031,
+    "source": "sample",
+    "name": "REP",
+    "icon": "/tokens/REP.svg",
+    "balance": "30.85238983"
+  },
+  {
+    "currency": "REV",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.037,
+    "source": "sample",
+    "name": "REV",
+    "icon": "/tokens/REV.svg",
+    "balance": "30.85010551"
+  },
+  {
+    "currency": "RLB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.234,
+    "source": "sample",
+    "name": "RLB",
+    "icon": "/tokens/RLB.svg",
+    "balance": "30.77529113"
+  },
+  {
+    "currency": "RLC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.235,
+    "source": "sample",
+    "name": "RLC",
+    "icon": "/tokens/RLC.svg",
+    "balance": "30.77491229"
+  },
+  {
+    "currency": "RNDR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 120.02,
+    "source": "sample",
+    "name": "RNDR",
+    "icon": "/tokens/RNDR.svg",
+    "balance": "20.82986169"
+  },
+  {
+    "currency": "ROAR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 120.888,
+    "source": "sample",
+    "name": "ROAR",
+    "icon": "/tokens/ROAR.svg",
+    "balance": "20.68029912"
+  },
+  {
+    "currency": "ROWAN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 17.921,
+    "source": "sample",
+    "name": "ROWAN",
+    "icon": "/tokens/ROWAN.svg",
+    "balance": "139.50114391"
+  },
+  {
+    "currency": "RSR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.467,
+    "source": "sample",
+    "name": "RSR",
+    "icon": "/tokens/RSR.svg",
+    "balance": "30.68727215"
+  },
+  {
+    "currency": "rSWTH",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.00408771,
+    "source": "snapshot",
+    "name": "rSWTH",
+    "icon": "/tokens/rSWTH.svg",
+    "balance": "611589.37400158"
+  },
+  {
+    "currency": "RUNE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 127.044,
+    "source": "sample",
+    "name": "RUNE",
+    "icon": "/tokens/RUNE.svg",
+    "balance": "19.67822172"
+  },
+  {
+    "currency": "RVN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.556,
+    "source": "sample",
+    "name": "RVN",
+    "icon": "/tokens/RVN.svg",
+    "balance": "30.65378390"
+  },
+  {
+    "currency": "S",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 0.093,
+    "source": "sample",
+    "name": "S",
+    "icon": "/tokens/S.svg",
+    "balance": "26881.72043011"
+  },
+  {
+    "currency": "SAFEMOON",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 70.04,
+    "source": "sample",
+    "name": "SAFEMOON",
+    "icon": "/tokens/SAFEMOON.svg",
+    "balance": "35.69388921"
+  },
+  {
+    "currency": "SAGA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 137.394,
+    "source": "sample",
+    "name": "SAGA",
+    "icon": "/tokens/SAGA.svg",
+    "balance": "18.19584552"
+  },
+  {
+    "currency": "SAND",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 137.614,
+    "source": "sample",
+    "name": "SAND",
+    "icon": "/tokens/SAND.svg",
+    "balance": "18.16675629"
+  },
+  {
+    "currency": "sARCH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 72.291,
+    "source": "sample",
+    "name": "sARCH",
+    "icon": "/tokens/sARCH.svg",
+    "balance": "34.58245148"
+  },
+  {
+    "currency": "SAYVE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 76.932,
+    "source": "sample",
+    "name": "SAYVE",
+    "icon": "/tokens/SAYVE.svg",
+    "balance": "32.49623044"
+  },
+  {
+    "currency": "SC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.65,
+    "source": "sample",
+    "name": "SC",
+    "icon": "/tokens/SC.svg",
+    "balance": "943.39622642"
+  },
+  {
+    "currency": "SCRT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 139.676,
+    "source": "sample",
+    "name": "SCRT",
+    "icon": "/tokens/SCRT.svg",
+    "balance": "17.89856525"
+  },
+  {
+    "currency": "SDT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.965,
+    "source": "sample",
+    "name": "SDT",
+    "icon": "/tokens/SDT.svg",
+    "balance": "30.50082352"
+  },
+  {
+    "currency": "SEI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.985,
+    "source": "sample",
+    "name": "SEI",
+    "icon": "/tokens/SEI.svg",
+    "balance": "30.49338294"
+  },
+  {
+    "currency": "SET",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 81.996,
+    "source": "sample",
+    "name": "SET",
+    "icon": "/tokens/SET.svg",
+    "balance": "30.48929216"
+  },
+  {
+    "currency": "SGT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.058,
+    "source": "sample",
+    "name": "SGT",
+    "icon": "/tokens/SGT.svg",
+    "balance": "30.46625558"
+  },
+  {
+    "currency": "SHD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.073,
+    "source": "sample",
+    "name": "SHD",
+    "icon": "/tokens/SHD.svg",
+    "balance": "30.46068744"
+  },
+  {
+    "currency": "SHIB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 144.184,
+    "source": "sample",
+    "name": "SHIB",
+    "icon": "/tokens/SHIB.svg",
+    "balance": "17.33895578"
+  },
+  {
+    "currency": "SHIDO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 119.545,
+    "source": "sample",
+    "name": "SHIDO",
+    "icon": "/tokens/SHIDO.svg",
+    "balance": "20.91262704"
+  },
+  {
+    "currency": "SITY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 145.509,
+    "source": "sample",
+    "name": "SITY",
+    "icon": "/tokens/SITY.svg",
+    "balance": "17.18106784"
+  },
+  {
+    "currency": "SLERF",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 85.29,
+    "source": "sample",
+    "name": "SLERF",
+    "icon": "/tokens/SLERF.svg",
+    "balance": "29.31175988"
+  },
+  {
+    "currency": "SNT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.275,
+    "source": "sample",
+    "name": "SNT",
+    "icon": "/tokens/SNT.svg",
+    "balance": "30.38590094"
+  },
+  {
+    "currency": "SNX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.279,
+    "source": "sample",
+    "name": "SNX",
+    "icon": "/tokens/SNX.svg",
+    "balance": "30.38442373"
+  },
+  {
+    "currency": "SOLETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 60.803,
+    "source": "sample",
+    "name": "SOLETH",
+    "icon": "/tokens/SOLETH.svg",
+    "balance": "41.11639228"
+  },
+  {
+    "currency": "SOM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.299,
+    "source": "sample",
+    "name": "SOM",
+    "icon": "/tokens/SOM.svg",
+    "balance": "30.37703982"
+  },
+  {
+    "currency": "SOMM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 1.046,
+    "source": "sample",
+    "name": "SOMM",
+    "icon": "/tokens/SOMM.svg",
+    "balance": "2390.05736138"
+  },
+  {
+    "currency": "SPEC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 1.749,
+    "source": "sample",
+    "name": "SPEC",
+    "icon": "/tokens/SPEC.svg",
+    "balance": "1429.38822184"
+  },
+  {
+    "currency": "SRM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.392,
+    "source": "sample",
+    "name": "SRM",
+    "icon": "/tokens/SRM.svg",
+    "balance": "30.34275172"
+  },
+  {
+    "currency": "SRV",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.401,
+    "source": "sample",
+    "name": "SRV",
+    "icon": "/tokens/SRV.svg",
+    "balance": "30.33943763"
+  },
+  {
+    "currency": "STARS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 19.787,
+    "source": "sample",
+    "name": "STARS",
+    "icon": "/tokens/STARS.svg",
+    "balance": "126.34558043"
+  },
+  {
+    "currency": "STATOM",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 8.512162050847458,
+    "source": "snapshot",
+    "name": "STATOM",
+    "icon": "/tokens/stATOM.svg",
+    "balance": "293.69741613"
+  },
+  {
+    "currency": "stDYDX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 44.324,
+    "source": "sample",
+    "name": "stDYDX",
+    "icon": "/tokens/stDYDX.svg",
+    "balance": "56.40285173"
+  },
+  {
+    "currency": "stDYM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 78.865,
+    "source": "sample",
+    "name": "stDYM",
+    "icon": "/tokens/stDYM.svg",
+    "balance": "31.69974006"
+  },
+  {
+    "currency": "STEEM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 23.222,
+    "source": "sample",
+    "name": "STEEM",
+    "icon": "/tokens/STEEM.svg",
+    "balance": "107.65653260"
+  },
+  {
+    "currency": "stETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 79.666,
+    "source": "sample",
+    "name": "stETH",
+    "icon": "/tokens/stETH.svg",
+    "balance": "31.38101574"
+  },
+  {
+    "currency": "STEVMOS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.07276706779661017,
+    "source": "snapshot",
+    "name": "STEVMOS",
+    "icon": "/tokens/stEVMOS.svg",
+    "balance": "34356.20089829"
+  },
+  {
+    "currency": "stFLUO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 91.931,
+    "source": "sample",
+    "name": "stFLUO",
+    "icon": "/tokens/stFLUO.svg",
+    "balance": "27.19430878"
+  },
+  {
+    "currency": "stIBCX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 21.145,
+    "source": "sample",
+    "name": "stIBCX",
+    "icon": "/tokens/stIBCX.svg",
+    "balance": "118.23126035"
+  },
+  {
+    "currency": "stINJ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.326,
+    "source": "sample",
+    "name": "stINJ",
+    "icon": "/tokens/stINJ.svg",
+    "balance": "30.00264023"
+  },
+  {
+    "currency": "stJUNO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.527,
+    "source": "sample",
+    "name": "stJUNO",
+    "icon": "/tokens/stJUNO.svg",
+    "balance": "35.95725402"
+  },
+  {
+    "currency": "stkATOM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 126.149,
+    "source": "sample",
+    "name": "stkATOM",
+    "icon": "/tokens/stkATOM.svg",
+    "balance": "19.81783447"
+  },
+  {
+    "currency": "stkDYDX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 69.997,
+    "source": "sample",
+    "name": "stkDYDX",
+    "icon": "/tokens/stkDYDX.svg",
+    "balance": "35.71581639"
+  },
+  {
+    "currency": "stkSTARS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 126.449,
+    "source": "sample",
+    "name": "stkSTARS",
+    "icon": "/tokens/stkSTARS.svg",
+    "balance": "19.77081669"
+  },
+  {
+    "currency": "STLUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.44232210169491526,
+    "source": "snapshot",
+    "name": "STLUNA",
+    "icon": "/tokens/stLUNA.svg",
+    "balance": "5651.98978396"
+  },
+  {
+    "currency": "STMX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 5.862,
+    "source": "sample",
+    "name": "STMX",
+    "icon": "/tokens/STMX.svg",
+    "balance": "426.47560560"
+  },
+  {
+    "currency": "stOKT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 89.009,
+    "source": "sample",
+    "name": "stOKT",
+    "icon": "/tokens/stOKT.svg",
+    "balance": "28.08704738"
+  },
+  {
+    "currency": "STORJ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 33.232,
+    "source": "sample",
+    "name": "STORJ",
+    "icon": "/tokens/STORJ.svg",
+    "balance": "75.22869523"
+  },
+  {
+    "currency": "STOSMO",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.431318,
+    "source": "snapshot",
+    "name": "STOSMO",
+    "icon": "/tokens/stOSMO.svg",
+    "balance": "5796.18749971"
+  },
+  {
+    "currency": "STRAX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 35.602,
+    "source": "sample",
+    "name": "STRAX",
+    "icon": "/tokens/STRAX.svg",
+    "balance": "70.22077411"
+  },
+  {
+    "currency": "STRD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.7386553389830508,
+    "source": "snapshot",
+    "name": "STRD",
+    "icon": "/tokens/STRD.svg",
+    "balance": "3384.52843709"
+  },
+  {
+    "currency": "STREAM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 56.57,
+    "source": "sample",
+    "name": "STREAM",
+    "icon": "/tokens/STREAM.svg",
+    "balance": "44.19303518"
+  },
+  {
+    "currency": "STRK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 6.004,
+    "source": "sample",
+    "name": "STRK",
+    "icon": "/tokens/STRK.svg",
+    "balance": "416.38907395"
+  },
+  {
+    "currency": "stSAGA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 18.195,
+    "source": "sample",
+    "name": "stSAGA",
+    "icon": "/tokens/stSAGA.svg",
+    "balance": "137.40038472"
+  },
+  {
+    "currency": "stSTARS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 109.514,
+    "source": "sample",
+    "name": "stSTARS",
+    "icon": "/tokens/stSTARS.svg",
+    "balance": "22.82813156"
+  },
+  {
+    "currency": "STT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.461,
+    "source": "sample",
+    "name": "STT",
+    "icon": "/tokens/STT.svg",
+    "balance": "30.31736215"
+  },
+  {
+    "currency": "stTIA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 93.733,
+    "source": "sample",
+    "name": "stTIA",
+    "icon": "/tokens/stTIA.svg",
+    "balance": "26.67150310"
+  },
+  {
+    "currency": "STX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.465,
+    "source": "sample",
+    "name": "STX",
+    "icon": "/tokens/STX.svg",
+    "balance": "30.31589159"
+  },
+  {
+    "currency": "stZIL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 99.51,
+    "source": "sample",
+    "name": "stZIL",
+    "icon": "/tokens/stZIL.svg",
+    "balance": "25.12310321"
+  },
+  {
+    "currency": "SUI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.481,
+    "source": "sample",
+    "name": "SUI",
+    "icon": "/tokens/SUI.svg",
+    "balance": "30.31001079"
+  },
+  {
+    "currency": "SUN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.486,
+    "source": "sample",
+    "name": "SUN",
+    "icon": "/tokens/SUN.svg",
+    "balance": "30.30817351"
+  },
+  {
+    "currency": "SUSHI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.556,
+    "source": "sample",
+    "name": "SUSHI",
+    "icon": "/tokens/SUSHI.svg",
+    "balance": "37.56235351"
+  },
+  {
+    "currency": "SWTH-LEGACY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 88.024,
+    "source": "sample",
+    "name": "SWTH-LEGACY",
+    "icon": "/tokens/SWTH-LEGACY.svg",
+    "balance": "28.40134509"
+  },
+  {
+    "currency": "SXP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.581,
+    "source": "sample",
+    "name": "SXP",
+    "icon": "/tokens/SXP.svg",
+    "balance": "30.27330742"
+  },
+  {
+    "currency": "TAO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.828,
+    "source": "sample",
+    "name": "TAO",
+    "icon": "/tokens/TAO.svg",
+    "balance": "30.18302989"
+  },
+  {
+    "currency": "TEL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 82.949,
+    "source": "sample",
+    "name": "TEL",
+    "icon": "/tokens/TEL.svg",
+    "balance": "30.13900107"
+  },
+  {
+    "currency": "TFUEL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 95.044,
+    "source": "sample",
+    "name": "TFUEL",
+    "icon": "/tokens/TFUEL.svg",
+    "balance": "26.30360675"
+  },
+  {
+    "currency": "THETA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 139.704,
+    "source": "sample",
+    "name": "THETA",
+    "icon": "/tokens/THETA.svg",
+    "balance": "17.89497795"
+  },
+  {
+    "currency": "THT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.05,
+    "source": "sample",
+    "name": "THT",
+    "icon": "/tokens/THT.svg",
+    "balance": "30.10234798"
+  },
+  {
+    "currency": "TIA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.062,
+    "source": "sample",
+    "name": "TIA",
+    "icon": "/tokens/TIA.svg",
+    "balance": "30.09799909"
+  },
+  {
+    "currency": "TICK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 24.759,
+    "source": "sample",
+    "name": "TICK",
+    "icon": "/tokens/TICK.svg",
+    "balance": "100.97338342"
+  },
+  {
+    "currency": "TITAN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 33.334,
+    "source": "sample",
+    "name": "TITAN",
+    "icon": "/tokens/TITAN.svg",
+    "balance": "74.99850003"
+  },
+  {
+    "currency": "TLAND",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 104.841,
+    "source": "sample",
+    "name": "TLAND",
+    "icon": "/tokens/TLAND.svg",
+    "balance": "23.84563291"
+  },
+  {
+    "currency": "TLM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.167,
+    "source": "sample",
+    "name": "TLM",
+    "icon": "/tokens/TLM.svg",
+    "balance": "30.05999976"
+  },
+  {
+    "currency": "Token",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 138.643,
+    "source": "sample",
+    "name": "Token",
+    "icon": "/tokens/Token.svg",
+    "balance": "18.03192372"
+  },
+  {
+    "currency": "TOMO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 30.839,
+    "source": "sample",
+    "name": "TOMO",
+    "icon": "/tokens/TOMO.svg",
+    "balance": "81.06618243"
+  },
+  {
+    "currency": "TON",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.261,
+    "source": "sample",
+    "name": "TON",
+    "icon": "/tokens/TON.svg",
+    "balance": "30.02606262"
+  },
+  {
+    "currency": "TPC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.281,
+    "source": "sample",
+    "name": "TPC",
+    "icon": "/tokens/TPC.svg",
+    "balance": "30.01885184"
+  },
+  {
+    "currency": "TRAXX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 133.917,
+    "source": "sample",
+    "name": "TRAXX",
+    "icon": "/tokens/TRAXX.svg",
+    "balance": "18.66827961"
+  },
+  {
+    "currency": "TRB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.342,
+    "source": "sample",
+    "name": "TRB",
+    "icon": "/tokens/TRB.svg",
+    "balance": "29.99688032"
+  },
+  {
+    "currency": "TRU",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.361,
+    "source": "sample",
+    "name": "TRU",
+    "icon": "/tokens/TRU.svg",
+    "balance": "29.99004331"
+  },
+  {
+    "currency": "TRUMP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 2.788,
+    "source": "sample",
+    "name": "TRUMP",
+    "icon": "/tokens/TRUMP.svg",
+    "balance": "896.70014347"
+  },
+  {
+    "currency": "TRX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.364,
+    "source": "sample",
+    "name": "TRX",
+    "icon": "/tokens/TRX.svg",
+    "balance": "29.98896406"
+  },
+  {
+    "currency": "TTT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.422,
+    "source": "sample",
+    "name": "TTT",
+    "icon": "/tokens/TTT.svg",
+    "balance": "29.96811393"
+  },
+  {
+    "currency": "TUSD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 36.78,
+    "source": "sample",
+    "name": "TUSD",
+    "icon": "/tokens/TUSD.svg",
+    "balance": "67.97172376"
+  },
+  {
+    "currency": "TWD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.499,
+    "source": "sample",
+    "name": "TWD",
+    "icon": "/tokens/TWD.svg",
+    "balance": "29.94047833"
+  },
+  {
+    "currency": "TWT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.515,
+    "source": "sample",
+    "name": "TWT",
+    "icon": "/tokens/TWT.svg",
+    "balance": "29.93474226"
+  },
+  {
+    "currency": "UBQ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 83.822,
+    "source": "sample",
+    "name": "UBQ",
+    "icon": "/tokens/UBQ.svg",
+    "balance": "29.82510558"
+  },
+  {
+    "currency": "UMEE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 58.45,
+    "source": "sample",
+    "name": "UMEE",
+    "icon": "/tokens/UMEE.svg",
+    "balance": "42.77159966"
+  },
+  {
+    "currency": "UNA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 84.178,
+    "source": "sample",
+    "name": "UNA",
+    "icon": "/tokens/UNA.svg",
+    "balance": "29.69897123"
+  },
+  {
+    "currency": "UNI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 84.186,
+    "source": "sample",
+    "name": "Uniswap",
+    "icon": "/tokens/UNI.svg",
+    "balance": "29.69614900"
+  },
+  {
+    "currency": "UOS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 84.227,
+    "source": "sample",
+    "name": "UOS",
+    "icon": "/tokens/UOS.svg",
+    "balance": "29.68169352"
+  },
+  {
+    "currency": "USC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.994,
+    "source": "snapshot",
+    "name": "USC",
+    "icon": "/tokens/USC.svg",
+    "balance": "2515.09054326"
+  },
+  {
+    "currency": "USC-Minted",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.387,
+    "source": "sample",
+    "name": "USC-Minted",
+    "icon": "/tokens/USC-Minted.svg",
+    "balance": "31.09955590"
+  },
+  {
+    "currency": "USD",
+    "date": "2023-08-29T07:10:30.000Z",
+    "price": 1,
+    "source": "snapshot",
+    "name": "USD",
+    "icon": "/tokens/USD.svg",
+    "balance": "2500.00000000"
+  },
+  {
+    "currency": "USDC-dATOM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 80.031,
+    "source": "sample",
+    "name": "USDC-dATOM",
+    "icon": "/tokens/USDC-dATOM.svg",
+    "balance": "31.23789532"
+  },
+  {
+    "currency": "USDC.e",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 21.79,
+    "source": "sample",
+    "name": "USDC.e",
+    "icon": "/tokens/USDC.e.svg",
+    "balance": "114.73152822"
+  },
+  {
+    "currency": "USDC.grv",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 115.812,
+    "source": "sample",
+    "name": "USDC.grv",
+    "icon": "/tokens/USDC.grv.svg",
+    "balance": "21.58670949"
+  },
+  {
+    "currency": "USDP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.196,
+    "source": "sample",
+    "name": "USDP",
+    "icon": "/tokens/USDP.svg",
+    "balance": "38.94323634"
+  },
+  {
+    "currency": "USDY",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 64.205,
+    "source": "sample",
+    "name": "USDY",
+    "icon": "/tokens/USDY.svg",
+    "balance": "38.93777743"
+  },
+  {
+    "currency": "USK",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 84.343,
+    "source": "sample",
+    "name": "USK",
+    "icon": "/tokens/USK.svg",
+    "balance": "29.64087120"
+  },
+  {
+    "currency": "UST",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 84.352,
+    "source": "sample",
+    "name": "UST",
+    "icon": "/tokens/UST.svg",
+    "balance": "29.63770865"
+  },
+  {
+    "currency": "USUAL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 55.724,
+    "source": "sample",
+    "name": "USUAL",
+    "icon": "/tokens/USUAL.svg",
+    "balance": "44.86397244"
+  },
+  {
+    "currency": "VDL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 84.84,
+    "source": "sample",
+    "name": "VDL",
+    "icon": "/tokens/VDL.svg",
+    "balance": "29.46723244"
+  },
+  {
+    "currency": "veFLUO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 126.569,
+    "source": "sample",
+    "name": "veFLUO",
+    "icon": "/tokens/veFLUO.svg",
+    "balance": "19.75207199"
+  },
+  {
+    "currency": "VET",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 84.879,
+    "source": "sample",
+    "name": "VET",
+    "icon": "/tokens/VET.svg",
+    "balance": "29.45369290"
+  },
+  {
+    "currency": "VIRTUAL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 48.213,
+    "source": "sample",
+    "name": "VIRTUAL",
+    "icon": "/tokens/VIRTUAL.svg",
+    "balance": "51.85323460"
+  },
+  {
+    "currency": "VKR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 85.063,
+    "source": "sample",
+    "name": "VKR",
+    "icon": "/tokens/VKR.svg",
+    "balance": "29.38998154"
+  },
+  {
+    "currency": "VRTX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 93.53,
+    "source": "sample",
+    "name": "VRTX",
+    "icon": "/tokens/VRTX.svg",
+    "balance": "26.72939164"
+  },
+  {
+    "currency": "vZWAP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 142.38,
+    "source": "sample",
+    "name": "vZWAP",
+    "icon": "/tokens/vZWAP.svg",
+    "balance": "17.55864588"
+  },
+  {
+    "currency": "W",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 0.097,
+    "source": "sample",
+    "name": "W",
+    "icon": "/tokens/W.svg",
+    "balance": "25773.19587629"
+  },
+  {
+    "currency": "WAL",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 85.708,
+    "source": "sample",
+    "name": "WAL",
+    "icon": "/tokens/WAL.svg",
+    "balance": "29.16880571"
+  },
+  {
+    "currency": "WAVAX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 17.501,
+    "source": "sample",
+    "name": "WAVAX",
+    "icon": "/tokens/WAVAX.svg",
+    "balance": "142.84898006"
+  },
+  {
+    "currency": "WAVE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 107.027,
+    "source": "sample",
+    "name": "WAVE",
+    "icon": "/tokens/WAVE.svg",
+    "balance": "23.35859176"
+  },
+  {
+    "currency": "WBNB",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 107.737,
+    "source": "sample",
+    "name": "WBNB",
+    "icon": "/tokens/WBNB.svg",
+    "balance": "23.20465578"
+  },
+  {
+    "currency": "WBTC",
+    "date": "2023-08-29T07:10:52.000Z",
+    "price": 26002.82202020202,
+    "source": "snapshot",
+    "name": "Wrapped Bitcoin",
+    "icon": "/tokens/WBTC.svg",
+    "balance": "0.09614341"
+  },
+  {
+    "currency": "WETH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 110.812,
+    "source": "sample",
+    "name": "Wrapped Ether",
+    "icon": "/tokens/WETH.svg",
+    "balance": "22.56073349"
+  },
+  {
+    "currency": "WHALE",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 56.179,
+    "source": "sample",
+    "name": "WHALE",
+    "icon": "/tokens/WHALE.svg",
+    "balance": "44.50061411"
+  },
+  {
+    "currency": "WIF",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 85.95,
+    "source": "sample",
+    "name": "WIF",
+    "icon": "/tokens/WIF.svg",
+    "balance": "29.08667830"
+  },
+  {
+    "currency": "WIN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 85.958,
+    "source": "sample",
+    "name": "WIN",
+    "icon": "/tokens/WIN.svg",
+    "balance": "29.08397124"
+  },
+  {
+    "currency": "wKAS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 19.312,
+    "source": "sample",
+    "name": "wKAS",
+    "icon": "/tokens/wKAS.svg",
+    "balance": "129.45318973"
+  },
+  {
+    "currency": "WLD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 86.041,
+    "source": "sample",
+    "name": "WLD",
+    "icon": "/tokens/WLD.svg",
+    "balance": "29.05591520"
+  },
+  {
+    "currency": "WMATIC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.733,
+    "source": "sample",
+    "name": "WMATIC",
+    "icon": "/tokens/WMATIC.svg",
+    "balance": "37.46272459"
+  },
+  {
+    "currency": "WMNT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 118.326,
+    "source": "sample",
+    "name": "WMNT",
+    "icon": "/tokens/WMNT.svg",
+    "balance": "21.12806991"
+  },
+  {
+    "currency": "WRX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 86.247,
+    "source": "sample",
+    "name": "WRX",
+    "icon": "/tokens/WRX.svg",
+    "balance": "28.98651547"
+  },
+  {
+    "currency": "wstETH",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 1872.2579742372882,
+    "source": "snapshot",
+    "name": "wstETH",
+    "icon": "/tokens/wstETH.svg",
+    "balance": "1.33528607"
+  },
+  {
+    "currency": "XCAD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 138.088,
+    "source": "sample",
+    "name": "XCAD",
+    "icon": "/tokens/XCAD.svg",
+    "balance": "18.10439720"
+  },
+  {
+    "currency": "XDC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 86.753,
+    "source": "sample",
+    "name": "XDC",
+    "icon": "/tokens/XDC.svg",
+    "balance": "28.81744724"
+  },
+  {
+    "currency": "XEM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 86.794,
+    "source": "sample",
+    "name": "XEM",
+    "icon": "/tokens/XEM.svg",
+    "balance": "28.80383437"
+  },
+  {
+    "currency": "XKI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 86.976,
+    "source": "sample",
+    "name": "XKI",
+    "icon": "/tokens/XKI.svg",
+    "balance": "28.74356144"
+  },
+  {
+    "currency": "XLM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 87.011,
+    "source": "sample",
+    "name": "XLM",
+    "icon": "/tokens/XLM.svg",
+    "balance": "28.73199940"
+  },
+  {
+    "currency": "XMR",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 87.047,
+    "source": "sample",
+    "name": "XMR",
+    "icon": "/tokens/XMR.svg",
+    "balance": "28.72011672"
+  },
+  {
+    "currency": "XPRT",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 1.124,
+    "source": "sample",
+    "name": "XPRT",
+    "icon": "/tokens/XPRT.svg",
+    "balance": "2224.19928826"
+  },
+  {
+    "currency": "XRP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 0.52,
+    "source": "sample",
+    "name": "XRP",
+    "icon": "/tokens/XRP.svg",
+    "balance": "4807.69230769"
+  },
+  {
+    "currency": "XSGD",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 3.65,
+    "source": "sample",
+    "name": "XSGD",
+    "icon": "/tokens/XSGD.svg",
+    "balance": "684.93150685"
+  },
+  {
+    "currency": "XTRA",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 4.949,
+    "source": "sample",
+    "name": "XTRA",
+    "icon": "/tokens/XTRA.svg",
+    "balance": "505.15255607"
+  },
+  {
+    "currency": "XTZ",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 87.272,
+    "source": "sample",
+    "name": "XTZ",
+    "icon": "/tokens/XTZ.svg",
+    "balance": "28.64607205"
+  },
+  {
+    "currency": "XVG",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 87.315,
+    "source": "sample",
+    "name": "XVG",
+    "icon": "/tokens/XVG.svg",
+    "balance": "28.63196473"
+  },
+  {
+    "currency": "XVS",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 87.327,
+    "source": "sample",
+    "name": "XVS",
+    "icon": "/tokens/XVS.svg",
+    "balance": "28.62803028"
+  },
+  {
+    "currency": "YAKI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 16.272,
+    "source": "sample",
+    "name": "YAKI",
+    "icon": "/tokens/YAKI.svg",
+    "balance": "153.63815143"
+  },
+  {
+    "currency": "YAM",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 87.631,
+    "source": "sample",
+    "name": "YAM",
+    "icon": "/tokens/YAM.svg",
+    "balance": "28.52871701"
+  },
+  {
+    "currency": "YFI",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 87.782,
+    "source": "sample",
+    "name": "YFI",
+    "icon": "/tokens/YFI.svg",
+    "balance": "28.47964275"
+  },
+  {
+    "currency": "YieldUSD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 1.0290847966101695,
+    "source": "snapshot",
+    "name": "YieldUSD",
+    "icon": "/tokens/YieldUSD.svg",
+    "balance": "2429.34305145"
+  },
+  {
+    "currency": "ZCH",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 88.649,
+    "source": "sample",
+    "name": "ZCH",
+    "icon": "/tokens/ZCH.svg",
+    "balance": "28.20110774"
+  },
+  {
+    "currency": "ZEC",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 88.706,
+    "source": "sample",
+    "name": "ZEC",
+    "icon": "/tokens/ZEC.svg",
+    "balance": "28.18298649"
+  },
+  {
+    "currency": "ZEN",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 88.717,
+    "source": "sample",
+    "name": "ZEN",
+    "icon": "/tokens/ZEN.svg",
+    "balance": "28.17949209"
+  },
+  {
+    "currency": "ZIL",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 0.01651813559322034,
+    "source": "snapshot",
+    "name": "ZIL",
+    "icon": "/tokens/ZIL.svg",
+    "balance": "151348.79998358"
+  },
+  {
+    "currency": "ZRO",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 89.121,
+    "source": "sample",
+    "name": "ZRO",
+    "icon": "/tokens/ZRO.svg",
+    "balance": "28.05174987"
+  },
+  {
+    "currency": "ZRX",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 89.13,
+    "source": "sample",
+    "name": "ZRX",
+    "icon": "/tokens/ZRX.svg",
+    "balance": "28.04891731"
+  },
+  {
+    "currency": "ZWAP",
+    "date": "2023-08-29T00:00:00.000Z",
+    "price": 66.902,
+    "source": "sample",
+    "name": "ZWAP",
+    "icon": "/tokens/ZWAP.svg",
+    "balance": "37.36809064"
+  }
+]
